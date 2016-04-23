@@ -1,0 +1,2726 @@
+Number of features in training data: 422
+Number of predicates: 422
+Labels: O VB DT NNS IN NNP TO WDT VBP VBZ NN PRP VBG VBN CD MD RB CC JJ WRB RP PDT WP EX UH POS JJS VBD RBS SYM RBR JJR NNPS
+Preparing O
+O->O(O) O,O
+O->VB(VB) O,VB
+O->DT(DT) O,DT
+O->NNS(NNS) O,NNS
+O->IN(IN) O,IN
+O->NNP(NNP) O,NNP
+O->TO(TO) O,TO
+O->WDT(WDT) O,WDT
+O->VBP(VBP) O,VBP
+O->VBZ(VBZ) O,VBZ
+O->NN(NN) O,NN
+O->PRP(PRP) O,PRP
+O->VBG(VBG) O,VBG
+O->VBN(VBN) O,VBN
+O->CD(CD) O,CD
+O->MD(MD) O,MD
+O->RB(RB) O,RB
+O->CC(CC) O,CC
+O->JJ(JJ) O,JJ
+O->WRB(WRB) O,WRB
+O->RP(RP) O,RP
+O->PDT(PDT) O,PDT
+O->WP(WP) O,WP
+O->EX(EX) O,EX
+O->UH(UH) O,UH
+O->POS(POS) O,POS
+O->JJS(JJS) O,JJS
+O->VBD(VBD) O,VBD
+O->RBS(RBS) O,RBS
+O->SYM(SYM) O,SYM
+O->RBR(RBR) O,RBR
+O->JJR(JJR) O,JJR
+O->NNPS(NNPS) O,NNPS
+Preparing VB
+VB->O(O) VB,O
+VB->VB(VB) VB,VB
+VB->DT(DT) VB,DT
+VB->NNS(NNS) VB,NNS
+VB->IN(IN) VB,IN
+VB->NNP(NNP) VB,NNP
+VB->TO(TO) VB,TO
+VB->WDT(WDT) VB,WDT
+VB->VBP(VBP) VB,VBP
+VB->VBZ(VBZ) VB,VBZ
+VB->NN(NN) VB,NN
+VB->PRP(PRP) VB,PRP
+VB->VBG(VBG) VB,VBG
+VB->VBN(VBN) VB,VBN
+VB->CD(CD) VB,CD
+VB->MD(MD) VB,MD
+VB->RB(RB) VB,RB
+VB->CC(CC) VB,CC
+VB->JJ(JJ) VB,JJ
+VB->WRB(WRB) VB,WRB
+VB->RP(RP) VB,RP
+VB->PDT(PDT) VB,PDT
+VB->WP(WP) VB,WP
+VB->EX(EX) VB,EX
+VB->UH(UH) VB,UH
+VB->POS(POS) VB,POS
+VB->JJS(JJS) VB,JJS
+VB->VBD(VBD) VB,VBD
+VB->RBS(RBS) VB,RBS
+VB->SYM(SYM) VB,SYM
+VB->RBR(RBR) VB,RBR
+VB->JJR(JJR) VB,JJR
+VB->NNPS(NNPS) VB,NNPS
+Preparing DT
+DT->O(O) DT,O
+DT->VB(VB) DT,VB
+DT->DT(DT) DT,DT
+DT->NNS(NNS) DT,NNS
+DT->IN(IN) DT,IN
+DT->NNP(NNP) DT,NNP
+DT->TO(TO) DT,TO
+DT->WDT(WDT) DT,WDT
+DT->VBP(VBP) DT,VBP
+DT->VBZ(VBZ) DT,VBZ
+DT->NN(NN) DT,NN
+DT->PRP(PRP) DT,PRP
+DT->VBG(VBG) DT,VBG
+DT->VBN(VBN) DT,VBN
+DT->CD(CD) DT,CD
+DT->MD(MD) DT,MD
+DT->RB(RB) DT,RB
+DT->CC(CC) DT,CC
+DT->JJ(JJ) DT,JJ
+DT->WRB(WRB) DT,WRB
+DT->RP(RP) DT,RP
+DT->PDT(PDT) DT,PDT
+DT->WP(WP) DT,WP
+DT->EX(EX) DT,EX
+DT->UH(UH) DT,UH
+DT->POS(POS) DT,POS
+DT->JJS(JJS) DT,JJS
+DT->VBD(VBD) DT,VBD
+DT->RBS(RBS) DT,RBS
+DT->SYM(SYM) DT,SYM
+DT->RBR(RBR) DT,RBR
+DT->JJR(JJR) DT,JJR
+DT->NNPS(NNPS) DT,NNPS
+Preparing NNS
+NNS->O(O) NNS,O
+NNS->VB(VB) NNS,VB
+NNS->DT(DT) NNS,DT
+NNS->NNS(NNS) NNS,NNS
+NNS->IN(IN) NNS,IN
+NNS->NNP(NNP) NNS,NNP
+NNS->TO(TO) NNS,TO
+NNS->WDT(WDT) NNS,WDT
+NNS->VBP(VBP) NNS,VBP
+NNS->VBZ(VBZ) NNS,VBZ
+NNS->NN(NN) NNS,NN
+NNS->PRP(PRP) NNS,PRP
+NNS->VBG(VBG) NNS,VBG
+NNS->VBN(VBN) NNS,VBN
+NNS->CD(CD) NNS,CD
+NNS->MD(MD) NNS,MD
+NNS->RB(RB) NNS,RB
+NNS->CC(CC) NNS,CC
+NNS->JJ(JJ) NNS,JJ
+NNS->WRB(WRB) NNS,WRB
+NNS->RP(RP) NNS,RP
+NNS->PDT(PDT) NNS,PDT
+NNS->WP(WP) NNS,WP
+NNS->EX(EX) NNS,EX
+NNS->UH(UH) NNS,UH
+NNS->POS(POS) NNS,POS
+NNS->JJS(JJS) NNS,JJS
+NNS->VBD(VBD) NNS,VBD
+NNS->RBS(RBS) NNS,RBS
+NNS->SYM(SYM) NNS,SYM
+NNS->RBR(RBR) NNS,RBR
+NNS->JJR(JJR) NNS,JJR
+NNS->NNPS(NNPS) NNS,NNPS
+Preparing IN
+IN->O(O) IN,O
+IN->VB(VB) IN,VB
+IN->DT(DT) IN,DT
+IN->NNS(NNS) IN,NNS
+IN->IN(IN) IN,IN
+IN->NNP(NNP) IN,NNP
+IN->TO(TO) IN,TO
+IN->WDT(WDT) IN,WDT
+IN->VBP(VBP) IN,VBP
+IN->VBZ(VBZ) IN,VBZ
+IN->NN(NN) IN,NN
+IN->PRP(PRP) IN,PRP
+IN->VBG(VBG) IN,VBG
+IN->VBN(VBN) IN,VBN
+IN->CD(CD) IN,CD
+IN->MD(MD) IN,MD
+IN->RB(RB) IN,RB
+IN->CC(CC) IN,CC
+IN->JJ(JJ) IN,JJ
+IN->WRB(WRB) IN,WRB
+IN->RP(RP) IN,RP
+IN->PDT(PDT) IN,PDT
+IN->WP(WP) IN,WP
+IN->EX(EX) IN,EX
+IN->UH(UH) IN,UH
+IN->POS(POS) IN,POS
+IN->JJS(JJS) IN,JJS
+IN->VBD(VBD) IN,VBD
+IN->RBS(RBS) IN,RBS
+IN->SYM(SYM) IN,SYM
+IN->RBR(RBR) IN,RBR
+IN->JJR(JJR) IN,JJR
+IN->NNPS(NNPS) IN,NNPS
+Preparing NNP
+NNP->O(O) NNP,O
+NNP->VB(VB) NNP,VB
+NNP->DT(DT) NNP,DT
+NNP->NNS(NNS) NNP,NNS
+NNP->IN(IN) NNP,IN
+NNP->NNP(NNP) NNP,NNP
+NNP->TO(TO) NNP,TO
+NNP->WDT(WDT) NNP,WDT
+NNP->VBP(VBP) NNP,VBP
+NNP->VBZ(VBZ) NNP,VBZ
+NNP->NN(NN) NNP,NN
+NNP->PRP(PRP) NNP,PRP
+NNP->VBG(VBG) NNP,VBG
+NNP->VBN(VBN) NNP,VBN
+NNP->CD(CD) NNP,CD
+NNP->MD(MD) NNP,MD
+NNP->RB(RB) NNP,RB
+NNP->CC(CC) NNP,CC
+NNP->JJ(JJ) NNP,JJ
+NNP->WRB(WRB) NNP,WRB
+NNP->RP(RP) NNP,RP
+NNP->PDT(PDT) NNP,PDT
+NNP->WP(WP) NNP,WP
+NNP->EX(EX) NNP,EX
+NNP->UH(UH) NNP,UH
+NNP->POS(POS) NNP,POS
+NNP->JJS(JJS) NNP,JJS
+NNP->VBD(VBD) NNP,VBD
+NNP->RBS(RBS) NNP,RBS
+NNP->SYM(SYM) NNP,SYM
+NNP->RBR(RBR) NNP,RBR
+NNP->JJR(JJR) NNP,JJR
+NNP->NNPS(NNPS) NNP,NNPS
+Preparing TO
+TO->O(O) TO,O
+TO->VB(VB) TO,VB
+TO->DT(DT) TO,DT
+TO->NNS(NNS) TO,NNS
+TO->IN(IN) TO,IN
+TO->NNP(NNP) TO,NNP
+TO->TO(TO) TO,TO
+TO->WDT(WDT) TO,WDT
+TO->VBP(VBP) TO,VBP
+TO->VBZ(VBZ) TO,VBZ
+TO->NN(NN) TO,NN
+TO->PRP(PRP) TO,PRP
+TO->VBG(VBG) TO,VBG
+TO->VBN(VBN) TO,VBN
+TO->CD(CD) TO,CD
+TO->MD(MD) TO,MD
+TO->RB(RB) TO,RB
+TO->CC(CC) TO,CC
+TO->JJ(JJ) TO,JJ
+TO->WRB(WRB) TO,WRB
+TO->RP(RP) TO,RP
+TO->PDT(PDT) TO,PDT
+TO->WP(WP) TO,WP
+TO->EX(EX) TO,EX
+TO->UH(UH) TO,UH
+TO->POS(POS) TO,POS
+TO->JJS(JJS) TO,JJS
+TO->VBD(VBD) TO,VBD
+TO->RBS(RBS) TO,RBS
+TO->SYM(SYM) TO,SYM
+TO->RBR(RBR) TO,RBR
+TO->JJR(JJR) TO,JJR
+TO->NNPS(NNPS) TO,NNPS
+Preparing WDT
+WDT->O(O) WDT,O
+WDT->VB(VB) WDT,VB
+WDT->DT(DT) WDT,DT
+WDT->NNS(NNS) WDT,NNS
+WDT->IN(IN) WDT,IN
+WDT->NNP(NNP) WDT,NNP
+WDT->TO(TO) WDT,TO
+WDT->WDT(WDT) WDT,WDT
+WDT->VBP(VBP) WDT,VBP
+WDT->VBZ(VBZ) WDT,VBZ
+WDT->NN(NN) WDT,NN
+WDT->PRP(PRP) WDT,PRP
+WDT->VBG(VBG) WDT,VBG
+WDT->VBN(VBN) WDT,VBN
+WDT->CD(CD) WDT,CD
+WDT->MD(MD) WDT,MD
+WDT->RB(RB) WDT,RB
+WDT->CC(CC) WDT,CC
+WDT->JJ(JJ) WDT,JJ
+WDT->WRB(WRB) WDT,WRB
+WDT->RP(RP) WDT,RP
+WDT->PDT(PDT) WDT,PDT
+WDT->WP(WP) WDT,WP
+WDT->EX(EX) WDT,EX
+WDT->UH(UH) WDT,UH
+WDT->POS(POS) WDT,POS
+WDT->JJS(JJS) WDT,JJS
+WDT->VBD(VBD) WDT,VBD
+WDT->RBS(RBS) WDT,RBS
+WDT->SYM(SYM) WDT,SYM
+WDT->RBR(RBR) WDT,RBR
+WDT->JJR(JJR) WDT,JJR
+WDT->NNPS(NNPS) WDT,NNPS
+Preparing VBP
+VBP->O(O) VBP,O
+VBP->VB(VB) VBP,VB
+VBP->DT(DT) VBP,DT
+VBP->NNS(NNS) VBP,NNS
+VBP->IN(IN) VBP,IN
+VBP->NNP(NNP) VBP,NNP
+VBP->TO(TO) VBP,TO
+VBP->WDT(WDT) VBP,WDT
+VBP->VBP(VBP) VBP,VBP
+VBP->VBZ(VBZ) VBP,VBZ
+VBP->NN(NN) VBP,NN
+VBP->PRP(PRP) VBP,PRP
+VBP->VBG(VBG) VBP,VBG
+VBP->VBN(VBN) VBP,VBN
+VBP->CD(CD) VBP,CD
+VBP->MD(MD) VBP,MD
+VBP->RB(RB) VBP,RB
+VBP->CC(CC) VBP,CC
+VBP->JJ(JJ) VBP,JJ
+VBP->WRB(WRB) VBP,WRB
+VBP->RP(RP) VBP,RP
+VBP->PDT(PDT) VBP,PDT
+VBP->WP(WP) VBP,WP
+VBP->EX(EX) VBP,EX
+VBP->UH(UH) VBP,UH
+VBP->POS(POS) VBP,POS
+VBP->JJS(JJS) VBP,JJS
+VBP->VBD(VBD) VBP,VBD
+VBP->RBS(RBS) VBP,RBS
+VBP->SYM(SYM) VBP,SYM
+VBP->RBR(RBR) VBP,RBR
+VBP->JJR(JJR) VBP,JJR
+VBP->NNPS(NNPS) VBP,NNPS
+Preparing VBZ
+VBZ->O(O) VBZ,O
+VBZ->VB(VB) VBZ,VB
+VBZ->DT(DT) VBZ,DT
+VBZ->NNS(NNS) VBZ,NNS
+VBZ->IN(IN) VBZ,IN
+VBZ->NNP(NNP) VBZ,NNP
+VBZ->TO(TO) VBZ,TO
+VBZ->WDT(WDT) VBZ,WDT
+VBZ->VBP(VBP) VBZ,VBP
+VBZ->VBZ(VBZ) VBZ,VBZ
+VBZ->NN(NN) VBZ,NN
+VBZ->PRP(PRP) VBZ,PRP
+VBZ->VBG(VBG) VBZ,VBG
+VBZ->VBN(VBN) VBZ,VBN
+VBZ->CD(CD) VBZ,CD
+VBZ->MD(MD) VBZ,MD
+VBZ->RB(RB) VBZ,RB
+VBZ->CC(CC) VBZ,CC
+VBZ->JJ(JJ) VBZ,JJ
+VBZ->WRB(WRB) VBZ,WRB
+VBZ->RP(RP) VBZ,RP
+VBZ->PDT(PDT) VBZ,PDT
+VBZ->WP(WP) VBZ,WP
+VBZ->EX(EX) VBZ,EX
+VBZ->UH(UH) VBZ,UH
+VBZ->POS(POS) VBZ,POS
+VBZ->JJS(JJS) VBZ,JJS
+VBZ->VBD(VBD) VBZ,VBD
+VBZ->RBS(RBS) VBZ,RBS
+VBZ->SYM(SYM) VBZ,SYM
+VBZ->RBR(RBR) VBZ,RBR
+VBZ->JJR(JJR) VBZ,JJR
+VBZ->NNPS(NNPS) VBZ,NNPS
+Preparing NN
+NN->O(O) NN,O
+NN->VB(VB) NN,VB
+NN->DT(DT) NN,DT
+NN->NNS(NNS) NN,NNS
+NN->IN(IN) NN,IN
+NN->NNP(NNP) NN,NNP
+NN->TO(TO) NN,TO
+NN->WDT(WDT) NN,WDT
+NN->VBP(VBP) NN,VBP
+NN->VBZ(VBZ) NN,VBZ
+NN->NN(NN) NN,NN
+NN->PRP(PRP) NN,PRP
+NN->VBG(VBG) NN,VBG
+NN->VBN(VBN) NN,VBN
+NN->CD(CD) NN,CD
+NN->MD(MD) NN,MD
+NN->RB(RB) NN,RB
+NN->CC(CC) NN,CC
+NN->JJ(JJ) NN,JJ
+NN->WRB(WRB) NN,WRB
+NN->RP(RP) NN,RP
+NN->PDT(PDT) NN,PDT
+NN->WP(WP) NN,WP
+NN->EX(EX) NN,EX
+NN->UH(UH) NN,UH
+NN->POS(POS) NN,POS
+NN->JJS(JJS) NN,JJS
+NN->VBD(VBD) NN,VBD
+NN->RBS(RBS) NN,RBS
+NN->SYM(SYM) NN,SYM
+NN->RBR(RBR) NN,RBR
+NN->JJR(JJR) NN,JJR
+NN->NNPS(NNPS) NN,NNPS
+Preparing PRP
+PRP->O(O) PRP,O
+PRP->VB(VB) PRP,VB
+PRP->DT(DT) PRP,DT
+PRP->NNS(NNS) PRP,NNS
+PRP->IN(IN) PRP,IN
+PRP->NNP(NNP) PRP,NNP
+PRP->TO(TO) PRP,TO
+PRP->WDT(WDT) PRP,WDT
+PRP->VBP(VBP) PRP,VBP
+PRP->VBZ(VBZ) PRP,VBZ
+PRP->NN(NN) PRP,NN
+PRP->PRP(PRP) PRP,PRP
+PRP->VBG(VBG) PRP,VBG
+PRP->VBN(VBN) PRP,VBN
+PRP->CD(CD) PRP,CD
+PRP->MD(MD) PRP,MD
+PRP->RB(RB) PRP,RB
+PRP->CC(CC) PRP,CC
+PRP->JJ(JJ) PRP,JJ
+PRP->WRB(WRB) PRP,WRB
+PRP->RP(RP) PRP,RP
+PRP->PDT(PDT) PRP,PDT
+PRP->WP(WP) PRP,WP
+PRP->EX(EX) PRP,EX
+PRP->UH(UH) PRP,UH
+PRP->POS(POS) PRP,POS
+PRP->JJS(JJS) PRP,JJS
+PRP->VBD(VBD) PRP,VBD
+PRP->RBS(RBS) PRP,RBS
+PRP->SYM(SYM) PRP,SYM
+PRP->RBR(RBR) PRP,RBR
+PRP->JJR(JJR) PRP,JJR
+PRP->NNPS(NNPS) PRP,NNPS
+Preparing VBG
+VBG->O(O) VBG,O
+VBG->VB(VB) VBG,VB
+VBG->DT(DT) VBG,DT
+VBG->NNS(NNS) VBG,NNS
+VBG->IN(IN) VBG,IN
+VBG->NNP(NNP) VBG,NNP
+VBG->TO(TO) VBG,TO
+VBG->WDT(WDT) VBG,WDT
+VBG->VBP(VBP) VBG,VBP
+VBG->VBZ(VBZ) VBG,VBZ
+VBG->NN(NN) VBG,NN
+VBG->PRP(PRP) VBG,PRP
+VBG->VBG(VBG) VBG,VBG
+VBG->VBN(VBN) VBG,VBN
+VBG->CD(CD) VBG,CD
+VBG->MD(MD) VBG,MD
+VBG->RB(RB) VBG,RB
+VBG->CC(CC) VBG,CC
+VBG->JJ(JJ) VBG,JJ
+VBG->WRB(WRB) VBG,WRB
+VBG->RP(RP) VBG,RP
+VBG->PDT(PDT) VBG,PDT
+VBG->WP(WP) VBG,WP
+VBG->EX(EX) VBG,EX
+VBG->UH(UH) VBG,UH
+VBG->POS(POS) VBG,POS
+VBG->JJS(JJS) VBG,JJS
+VBG->VBD(VBD) VBG,VBD
+VBG->RBS(RBS) VBG,RBS
+VBG->SYM(SYM) VBG,SYM
+VBG->RBR(RBR) VBG,RBR
+VBG->JJR(JJR) VBG,JJR
+VBG->NNPS(NNPS) VBG,NNPS
+Preparing VBN
+VBN->O(O) VBN,O
+VBN->VB(VB) VBN,VB
+VBN->DT(DT) VBN,DT
+VBN->NNS(NNS) VBN,NNS
+VBN->IN(IN) VBN,IN
+VBN->NNP(NNP) VBN,NNP
+VBN->TO(TO) VBN,TO
+VBN->WDT(WDT) VBN,WDT
+VBN->VBP(VBP) VBN,VBP
+VBN->VBZ(VBZ) VBN,VBZ
+VBN->NN(NN) VBN,NN
+VBN->PRP(PRP) VBN,PRP
+VBN->VBG(VBG) VBN,VBG
+VBN->VBN(VBN) VBN,VBN
+VBN->CD(CD) VBN,CD
+VBN->MD(MD) VBN,MD
+VBN->RB(RB) VBN,RB
+VBN->CC(CC) VBN,CC
+VBN->JJ(JJ) VBN,JJ
+VBN->WRB(WRB) VBN,WRB
+VBN->RP(RP) VBN,RP
+VBN->PDT(PDT) VBN,PDT
+VBN->WP(WP) VBN,WP
+VBN->EX(EX) VBN,EX
+VBN->UH(UH) VBN,UH
+VBN->POS(POS) VBN,POS
+VBN->JJS(JJS) VBN,JJS
+VBN->VBD(VBD) VBN,VBD
+VBN->RBS(RBS) VBN,RBS
+VBN->SYM(SYM) VBN,SYM
+VBN->RBR(RBR) VBN,RBR
+VBN->JJR(JJR) VBN,JJR
+VBN->NNPS(NNPS) VBN,NNPS
+Preparing CD
+CD->O(O) CD,O
+CD->VB(VB) CD,VB
+CD->DT(DT) CD,DT
+CD->NNS(NNS) CD,NNS
+CD->IN(IN) CD,IN
+CD->NNP(NNP) CD,NNP
+CD->TO(TO) CD,TO
+CD->WDT(WDT) CD,WDT
+CD->VBP(VBP) CD,VBP
+CD->VBZ(VBZ) CD,VBZ
+CD->NN(NN) CD,NN
+CD->PRP(PRP) CD,PRP
+CD->VBG(VBG) CD,VBG
+CD->VBN(VBN) CD,VBN
+CD->CD(CD) CD,CD
+CD->MD(MD) CD,MD
+CD->RB(RB) CD,RB
+CD->CC(CC) CD,CC
+CD->JJ(JJ) CD,JJ
+CD->WRB(WRB) CD,WRB
+CD->RP(RP) CD,RP
+CD->PDT(PDT) CD,PDT
+CD->WP(WP) CD,WP
+CD->EX(EX) CD,EX
+CD->UH(UH) CD,UH
+CD->POS(POS) CD,POS
+CD->JJS(JJS) CD,JJS
+CD->VBD(VBD) CD,VBD
+CD->RBS(RBS) CD,RBS
+CD->SYM(SYM) CD,SYM
+CD->RBR(RBR) CD,RBR
+CD->JJR(JJR) CD,JJR
+CD->NNPS(NNPS) CD,NNPS
+Preparing MD
+MD->O(O) MD,O
+MD->VB(VB) MD,VB
+MD->DT(DT) MD,DT
+MD->NNS(NNS) MD,NNS
+MD->IN(IN) MD,IN
+MD->NNP(NNP) MD,NNP
+MD->TO(TO) MD,TO
+MD->WDT(WDT) MD,WDT
+MD->VBP(VBP) MD,VBP
+MD->VBZ(VBZ) MD,VBZ
+MD->NN(NN) MD,NN
+MD->PRP(PRP) MD,PRP
+MD->VBG(VBG) MD,VBG
+MD->VBN(VBN) MD,VBN
+MD->CD(CD) MD,CD
+MD->MD(MD) MD,MD
+MD->RB(RB) MD,RB
+MD->CC(CC) MD,CC
+MD->JJ(JJ) MD,JJ
+MD->WRB(WRB) MD,WRB
+MD->RP(RP) MD,RP
+MD->PDT(PDT) MD,PDT
+MD->WP(WP) MD,WP
+MD->EX(EX) MD,EX
+MD->UH(UH) MD,UH
+MD->POS(POS) MD,POS
+MD->JJS(JJS) MD,JJS
+MD->VBD(VBD) MD,VBD
+MD->RBS(RBS) MD,RBS
+MD->SYM(SYM) MD,SYM
+MD->RBR(RBR) MD,RBR
+MD->JJR(JJR) MD,JJR
+MD->NNPS(NNPS) MD,NNPS
+Preparing RB
+RB->O(O) RB,O
+RB->VB(VB) RB,VB
+RB->DT(DT) RB,DT
+RB->NNS(NNS) RB,NNS
+RB->IN(IN) RB,IN
+RB->NNP(NNP) RB,NNP
+RB->TO(TO) RB,TO
+RB->WDT(WDT) RB,WDT
+RB->VBP(VBP) RB,VBP
+RB->VBZ(VBZ) RB,VBZ
+RB->NN(NN) RB,NN
+RB->PRP(PRP) RB,PRP
+RB->VBG(VBG) RB,VBG
+RB->VBN(VBN) RB,VBN
+RB->CD(CD) RB,CD
+RB->MD(MD) RB,MD
+RB->RB(RB) RB,RB
+RB->CC(CC) RB,CC
+RB->JJ(JJ) RB,JJ
+RB->WRB(WRB) RB,WRB
+RB->RP(RP) RB,RP
+RB->PDT(PDT) RB,PDT
+RB->WP(WP) RB,WP
+RB->EX(EX) RB,EX
+RB->UH(UH) RB,UH
+RB->POS(POS) RB,POS
+RB->JJS(JJS) RB,JJS
+RB->VBD(VBD) RB,VBD
+RB->RBS(RBS) RB,RBS
+RB->SYM(SYM) RB,SYM
+RB->RBR(RBR) RB,RBR
+RB->JJR(JJR) RB,JJR
+RB->NNPS(NNPS) RB,NNPS
+Preparing CC
+CC->O(O) CC,O
+CC->VB(VB) CC,VB
+CC->DT(DT) CC,DT
+CC->NNS(NNS) CC,NNS
+CC->IN(IN) CC,IN
+CC->NNP(NNP) CC,NNP
+CC->TO(TO) CC,TO
+CC->WDT(WDT) CC,WDT
+CC->VBP(VBP) CC,VBP
+CC->VBZ(VBZ) CC,VBZ
+CC->NN(NN) CC,NN
+CC->PRP(PRP) CC,PRP
+CC->VBG(VBG) CC,VBG
+CC->VBN(VBN) CC,VBN
+CC->CD(CD) CC,CD
+CC->MD(MD) CC,MD
+CC->RB(RB) CC,RB
+CC->CC(CC) CC,CC
+CC->JJ(JJ) CC,JJ
+CC->WRB(WRB) CC,WRB
+CC->RP(RP) CC,RP
+CC->PDT(PDT) CC,PDT
+CC->WP(WP) CC,WP
+CC->EX(EX) CC,EX
+CC->UH(UH) CC,UH
+CC->POS(POS) CC,POS
+CC->JJS(JJS) CC,JJS
+CC->VBD(VBD) CC,VBD
+CC->RBS(RBS) CC,RBS
+CC->SYM(SYM) CC,SYM
+CC->RBR(RBR) CC,RBR
+CC->JJR(JJR) CC,JJR
+CC->NNPS(NNPS) CC,NNPS
+Preparing JJ
+JJ->O(O) JJ,O
+JJ->VB(VB) JJ,VB
+JJ->DT(DT) JJ,DT
+JJ->NNS(NNS) JJ,NNS
+JJ->IN(IN) JJ,IN
+JJ->NNP(NNP) JJ,NNP
+JJ->TO(TO) JJ,TO
+JJ->WDT(WDT) JJ,WDT
+JJ->VBP(VBP) JJ,VBP
+JJ->VBZ(VBZ) JJ,VBZ
+JJ->NN(NN) JJ,NN
+JJ->PRP(PRP) JJ,PRP
+JJ->VBG(VBG) JJ,VBG
+JJ->VBN(VBN) JJ,VBN
+JJ->CD(CD) JJ,CD
+JJ->MD(MD) JJ,MD
+JJ->RB(RB) JJ,RB
+JJ->CC(CC) JJ,CC
+JJ->JJ(JJ) JJ,JJ
+JJ->WRB(WRB) JJ,WRB
+JJ->RP(RP) JJ,RP
+JJ->PDT(PDT) JJ,PDT
+JJ->WP(WP) JJ,WP
+JJ->EX(EX) JJ,EX
+JJ->UH(UH) JJ,UH
+JJ->POS(POS) JJ,POS
+JJ->JJS(JJS) JJ,JJS
+JJ->VBD(VBD) JJ,VBD
+JJ->RBS(RBS) JJ,RBS
+JJ->SYM(SYM) JJ,SYM
+JJ->RBR(RBR) JJ,RBR
+JJ->JJR(JJR) JJ,JJR
+JJ->NNPS(NNPS) JJ,NNPS
+Preparing WRB
+WRB->O(O) WRB,O
+WRB->VB(VB) WRB,VB
+WRB->DT(DT) WRB,DT
+WRB->NNS(NNS) WRB,NNS
+WRB->IN(IN) WRB,IN
+WRB->NNP(NNP) WRB,NNP
+WRB->TO(TO) WRB,TO
+WRB->WDT(WDT) WRB,WDT
+WRB->VBP(VBP) WRB,VBP
+WRB->VBZ(VBZ) WRB,VBZ
+WRB->NN(NN) WRB,NN
+WRB->PRP(PRP) WRB,PRP
+WRB->VBG(VBG) WRB,VBG
+WRB->VBN(VBN) WRB,VBN
+WRB->CD(CD) WRB,CD
+WRB->MD(MD) WRB,MD
+WRB->RB(RB) WRB,RB
+WRB->CC(CC) WRB,CC
+WRB->JJ(JJ) WRB,JJ
+WRB->WRB(WRB) WRB,WRB
+WRB->RP(RP) WRB,RP
+WRB->PDT(PDT) WRB,PDT
+WRB->WP(WP) WRB,WP
+WRB->EX(EX) WRB,EX
+WRB->UH(UH) WRB,UH
+WRB->POS(POS) WRB,POS
+WRB->JJS(JJS) WRB,JJS
+WRB->VBD(VBD) WRB,VBD
+WRB->RBS(RBS) WRB,RBS
+WRB->SYM(SYM) WRB,SYM
+WRB->RBR(RBR) WRB,RBR
+WRB->JJR(JJR) WRB,JJR
+WRB->NNPS(NNPS) WRB,NNPS
+Preparing RP
+RP->O(O) RP,O
+RP->VB(VB) RP,VB
+RP->DT(DT) RP,DT
+RP->NNS(NNS) RP,NNS
+RP->IN(IN) RP,IN
+RP->NNP(NNP) RP,NNP
+RP->TO(TO) RP,TO
+RP->WDT(WDT) RP,WDT
+RP->VBP(VBP) RP,VBP
+RP->VBZ(VBZ) RP,VBZ
+RP->NN(NN) RP,NN
+RP->PRP(PRP) RP,PRP
+RP->VBG(VBG) RP,VBG
+RP->VBN(VBN) RP,VBN
+RP->CD(CD) RP,CD
+RP->MD(MD) RP,MD
+RP->RB(RB) RP,RB
+RP->CC(CC) RP,CC
+RP->JJ(JJ) RP,JJ
+RP->WRB(WRB) RP,WRB
+RP->RP(RP) RP,RP
+RP->PDT(PDT) RP,PDT
+RP->WP(WP) RP,WP
+RP->EX(EX) RP,EX
+RP->UH(UH) RP,UH
+RP->POS(POS) RP,POS
+RP->JJS(JJS) RP,JJS
+RP->VBD(VBD) RP,VBD
+RP->RBS(RBS) RP,RBS
+RP->SYM(SYM) RP,SYM
+RP->RBR(RBR) RP,RBR
+RP->JJR(JJR) RP,JJR
+RP->NNPS(NNPS) RP,NNPS
+Preparing PDT
+PDT->O(O) PDT,O
+PDT->VB(VB) PDT,VB
+PDT->DT(DT) PDT,DT
+PDT->NNS(NNS) PDT,NNS
+PDT->IN(IN) PDT,IN
+PDT->NNP(NNP) PDT,NNP
+PDT->TO(TO) PDT,TO
+PDT->WDT(WDT) PDT,WDT
+PDT->VBP(VBP) PDT,VBP
+PDT->VBZ(VBZ) PDT,VBZ
+PDT->NN(NN) PDT,NN
+PDT->PRP(PRP) PDT,PRP
+PDT->VBG(VBG) PDT,VBG
+PDT->VBN(VBN) PDT,VBN
+PDT->CD(CD) PDT,CD
+PDT->MD(MD) PDT,MD
+PDT->RB(RB) PDT,RB
+PDT->CC(CC) PDT,CC
+PDT->JJ(JJ) PDT,JJ
+PDT->WRB(WRB) PDT,WRB
+PDT->RP(RP) PDT,RP
+PDT->PDT(PDT) PDT,PDT
+PDT->WP(WP) PDT,WP
+PDT->EX(EX) PDT,EX
+PDT->UH(UH) PDT,UH
+PDT->POS(POS) PDT,POS
+PDT->JJS(JJS) PDT,JJS
+PDT->VBD(VBD) PDT,VBD
+PDT->RBS(RBS) PDT,RBS
+PDT->SYM(SYM) PDT,SYM
+PDT->RBR(RBR) PDT,RBR
+PDT->JJR(JJR) PDT,JJR
+PDT->NNPS(NNPS) PDT,NNPS
+Preparing WP
+WP->O(O) WP,O
+WP->VB(VB) WP,VB
+WP->DT(DT) WP,DT
+WP->NNS(NNS) WP,NNS
+WP->IN(IN) WP,IN
+WP->NNP(NNP) WP,NNP
+WP->TO(TO) WP,TO
+WP->WDT(WDT) WP,WDT
+WP->VBP(VBP) WP,VBP
+WP->VBZ(VBZ) WP,VBZ
+WP->NN(NN) WP,NN
+WP->PRP(PRP) WP,PRP
+WP->VBG(VBG) WP,VBG
+WP->VBN(VBN) WP,VBN
+WP->CD(CD) WP,CD
+WP->MD(MD) WP,MD
+WP->RB(RB) WP,RB
+WP->CC(CC) WP,CC
+WP->JJ(JJ) WP,JJ
+WP->WRB(WRB) WP,WRB
+WP->RP(RP) WP,RP
+WP->PDT(PDT) WP,PDT
+WP->WP(WP) WP,WP
+WP->EX(EX) WP,EX
+WP->UH(UH) WP,UH
+WP->POS(POS) WP,POS
+WP->JJS(JJS) WP,JJS
+WP->VBD(VBD) WP,VBD
+WP->RBS(RBS) WP,RBS
+WP->SYM(SYM) WP,SYM
+WP->RBR(RBR) WP,RBR
+WP->JJR(JJR) WP,JJR
+WP->NNPS(NNPS) WP,NNPS
+Preparing EX
+EX->O(O) EX,O
+EX->VB(VB) EX,VB
+EX->DT(DT) EX,DT
+EX->NNS(NNS) EX,NNS
+EX->IN(IN) EX,IN
+EX->NNP(NNP) EX,NNP
+EX->TO(TO) EX,TO
+EX->WDT(WDT) EX,WDT
+EX->VBP(VBP) EX,VBP
+EX->VBZ(VBZ) EX,VBZ
+EX->NN(NN) EX,NN
+EX->PRP(PRP) EX,PRP
+EX->VBG(VBG) EX,VBG
+EX->VBN(VBN) EX,VBN
+EX->CD(CD) EX,CD
+EX->MD(MD) EX,MD
+EX->RB(RB) EX,RB
+EX->CC(CC) EX,CC
+EX->JJ(JJ) EX,JJ
+EX->WRB(WRB) EX,WRB
+EX->RP(RP) EX,RP
+EX->PDT(PDT) EX,PDT
+EX->WP(WP) EX,WP
+EX->EX(EX) EX,EX
+EX->UH(UH) EX,UH
+EX->POS(POS) EX,POS
+EX->JJS(JJS) EX,JJS
+EX->VBD(VBD) EX,VBD
+EX->RBS(RBS) EX,RBS
+EX->SYM(SYM) EX,SYM
+EX->RBR(RBR) EX,RBR
+EX->JJR(JJR) EX,JJR
+EX->NNPS(NNPS) EX,NNPS
+Preparing UH
+UH->O(O) UH,O
+UH->VB(VB) UH,VB
+UH->DT(DT) UH,DT
+UH->NNS(NNS) UH,NNS
+UH->IN(IN) UH,IN
+UH->NNP(NNP) UH,NNP
+UH->TO(TO) UH,TO
+UH->WDT(WDT) UH,WDT
+UH->VBP(VBP) UH,VBP
+UH->VBZ(VBZ) UH,VBZ
+UH->NN(NN) UH,NN
+UH->PRP(PRP) UH,PRP
+UH->VBG(VBG) UH,VBG
+UH->VBN(VBN) UH,VBN
+UH->CD(CD) UH,CD
+UH->MD(MD) UH,MD
+UH->RB(RB) UH,RB
+UH->CC(CC) UH,CC
+UH->JJ(JJ) UH,JJ
+UH->WRB(WRB) UH,WRB
+UH->RP(RP) UH,RP
+UH->PDT(PDT) UH,PDT
+UH->WP(WP) UH,WP
+UH->EX(EX) UH,EX
+UH->UH(UH) UH,UH
+UH->POS(POS) UH,POS
+UH->JJS(JJS) UH,JJS
+UH->VBD(VBD) UH,VBD
+UH->RBS(RBS) UH,RBS
+UH->SYM(SYM) UH,SYM
+UH->RBR(RBR) UH,RBR
+UH->JJR(JJR) UH,JJR
+UH->NNPS(NNPS) UH,NNPS
+Preparing POS
+POS->O(O) POS,O
+POS->VB(VB) POS,VB
+POS->DT(DT) POS,DT
+POS->NNS(NNS) POS,NNS
+POS->IN(IN) POS,IN
+POS->NNP(NNP) POS,NNP
+POS->TO(TO) POS,TO
+POS->WDT(WDT) POS,WDT
+POS->VBP(VBP) POS,VBP
+POS->VBZ(VBZ) POS,VBZ
+POS->NN(NN) POS,NN
+POS->PRP(PRP) POS,PRP
+POS->VBG(VBG) POS,VBG
+POS->VBN(VBN) POS,VBN
+POS->CD(CD) POS,CD
+POS->MD(MD) POS,MD
+POS->RB(RB) POS,RB
+POS->CC(CC) POS,CC
+POS->JJ(JJ) POS,JJ
+POS->WRB(WRB) POS,WRB
+POS->RP(RP) POS,RP
+POS->PDT(PDT) POS,PDT
+POS->WP(WP) POS,WP
+POS->EX(EX) POS,EX
+POS->UH(UH) POS,UH
+POS->POS(POS) POS,POS
+POS->JJS(JJS) POS,JJS
+POS->VBD(VBD) POS,VBD
+POS->RBS(RBS) POS,RBS
+POS->SYM(SYM) POS,SYM
+POS->RBR(RBR) POS,RBR
+POS->JJR(JJR) POS,JJR
+POS->NNPS(NNPS) POS,NNPS
+Preparing JJS
+JJS->O(O) JJS,O
+JJS->VB(VB) JJS,VB
+JJS->DT(DT) JJS,DT
+JJS->NNS(NNS) JJS,NNS
+JJS->IN(IN) JJS,IN
+JJS->NNP(NNP) JJS,NNP
+JJS->TO(TO) JJS,TO
+JJS->WDT(WDT) JJS,WDT
+JJS->VBP(VBP) JJS,VBP
+JJS->VBZ(VBZ) JJS,VBZ
+JJS->NN(NN) JJS,NN
+JJS->PRP(PRP) JJS,PRP
+JJS->VBG(VBG) JJS,VBG
+JJS->VBN(VBN) JJS,VBN
+JJS->CD(CD) JJS,CD
+JJS->MD(MD) JJS,MD
+JJS->RB(RB) JJS,RB
+JJS->CC(CC) JJS,CC
+JJS->JJ(JJ) JJS,JJ
+JJS->WRB(WRB) JJS,WRB
+JJS->RP(RP) JJS,RP
+JJS->PDT(PDT) JJS,PDT
+JJS->WP(WP) JJS,WP
+JJS->EX(EX) JJS,EX
+JJS->UH(UH) JJS,UH
+JJS->POS(POS) JJS,POS
+JJS->JJS(JJS) JJS,JJS
+JJS->VBD(VBD) JJS,VBD
+JJS->RBS(RBS) JJS,RBS
+JJS->SYM(SYM) JJS,SYM
+JJS->RBR(RBR) JJS,RBR
+JJS->JJR(JJR) JJS,JJR
+JJS->NNPS(NNPS) JJS,NNPS
+Preparing VBD
+VBD->O(O) VBD,O
+VBD->VB(VB) VBD,VB
+VBD->DT(DT) VBD,DT
+VBD->NNS(NNS) VBD,NNS
+VBD->IN(IN) VBD,IN
+VBD->NNP(NNP) VBD,NNP
+VBD->TO(TO) VBD,TO
+VBD->WDT(WDT) VBD,WDT
+VBD->VBP(VBP) VBD,VBP
+VBD->VBZ(VBZ) VBD,VBZ
+VBD->NN(NN) VBD,NN
+VBD->PRP(PRP) VBD,PRP
+VBD->VBG(VBG) VBD,VBG
+VBD->VBN(VBN) VBD,VBN
+VBD->CD(CD) VBD,CD
+VBD->MD(MD) VBD,MD
+VBD->RB(RB) VBD,RB
+VBD->CC(CC) VBD,CC
+VBD->JJ(JJ) VBD,JJ
+VBD->WRB(WRB) VBD,WRB
+VBD->RP(RP) VBD,RP
+VBD->PDT(PDT) VBD,PDT
+VBD->WP(WP) VBD,WP
+VBD->EX(EX) VBD,EX
+VBD->UH(UH) VBD,UH
+VBD->POS(POS) VBD,POS
+VBD->JJS(JJS) VBD,JJS
+VBD->VBD(VBD) VBD,VBD
+VBD->RBS(RBS) VBD,RBS
+VBD->SYM(SYM) VBD,SYM
+VBD->RBR(RBR) VBD,RBR
+VBD->JJR(JJR) VBD,JJR
+VBD->NNPS(NNPS) VBD,NNPS
+Preparing RBS
+RBS->O(O) RBS,O
+RBS->VB(VB) RBS,VB
+RBS->DT(DT) RBS,DT
+RBS->NNS(NNS) RBS,NNS
+RBS->IN(IN) RBS,IN
+RBS->NNP(NNP) RBS,NNP
+RBS->TO(TO) RBS,TO
+RBS->WDT(WDT) RBS,WDT
+RBS->VBP(VBP) RBS,VBP
+RBS->VBZ(VBZ) RBS,VBZ
+RBS->NN(NN) RBS,NN
+RBS->PRP(PRP) RBS,PRP
+RBS->VBG(VBG) RBS,VBG
+RBS->VBN(VBN) RBS,VBN
+RBS->CD(CD) RBS,CD
+RBS->MD(MD) RBS,MD
+RBS->RB(RB) RBS,RB
+RBS->CC(CC) RBS,CC
+RBS->JJ(JJ) RBS,JJ
+RBS->WRB(WRB) RBS,WRB
+RBS->RP(RP) RBS,RP
+RBS->PDT(PDT) RBS,PDT
+RBS->WP(WP) RBS,WP
+RBS->EX(EX) RBS,EX
+RBS->UH(UH) RBS,UH
+RBS->POS(POS) RBS,POS
+RBS->JJS(JJS) RBS,JJS
+RBS->VBD(VBD) RBS,VBD
+RBS->RBS(RBS) RBS,RBS
+RBS->SYM(SYM) RBS,SYM
+RBS->RBR(RBR) RBS,RBR
+RBS->JJR(JJR) RBS,JJR
+RBS->NNPS(NNPS) RBS,NNPS
+Preparing SYM
+SYM->O(O) SYM,O
+SYM->VB(VB) SYM,VB
+SYM->DT(DT) SYM,DT
+SYM->NNS(NNS) SYM,NNS
+SYM->IN(IN) SYM,IN
+SYM->NNP(NNP) SYM,NNP
+SYM->TO(TO) SYM,TO
+SYM->WDT(WDT) SYM,WDT
+SYM->VBP(VBP) SYM,VBP
+SYM->VBZ(VBZ) SYM,VBZ
+SYM->NN(NN) SYM,NN
+SYM->PRP(PRP) SYM,PRP
+SYM->VBG(VBG) SYM,VBG
+SYM->VBN(VBN) SYM,VBN
+SYM->CD(CD) SYM,CD
+SYM->MD(MD) SYM,MD
+SYM->RB(RB) SYM,RB
+SYM->CC(CC) SYM,CC
+SYM->JJ(JJ) SYM,JJ
+SYM->WRB(WRB) SYM,WRB
+SYM->RP(RP) SYM,RP
+SYM->PDT(PDT) SYM,PDT
+SYM->WP(WP) SYM,WP
+SYM->EX(EX) SYM,EX
+SYM->UH(UH) SYM,UH
+SYM->POS(POS) SYM,POS
+SYM->JJS(JJS) SYM,JJS
+SYM->VBD(VBD) SYM,VBD
+SYM->RBS(RBS) SYM,RBS
+SYM->SYM(SYM) SYM,SYM
+SYM->RBR(RBR) SYM,RBR
+SYM->JJR(JJR) SYM,JJR
+SYM->NNPS(NNPS) SYM,NNPS
+Preparing RBR
+RBR->O(O) RBR,O
+RBR->VB(VB) RBR,VB
+RBR->DT(DT) RBR,DT
+RBR->NNS(NNS) RBR,NNS
+RBR->IN(IN) RBR,IN
+RBR->NNP(NNP) RBR,NNP
+RBR->TO(TO) RBR,TO
+RBR->WDT(WDT) RBR,WDT
+RBR->VBP(VBP) RBR,VBP
+RBR->VBZ(VBZ) RBR,VBZ
+RBR->NN(NN) RBR,NN
+RBR->PRP(PRP) RBR,PRP
+RBR->VBG(VBG) RBR,VBG
+RBR->VBN(VBN) RBR,VBN
+RBR->CD(CD) RBR,CD
+RBR->MD(MD) RBR,MD
+RBR->RB(RB) RBR,RB
+RBR->CC(CC) RBR,CC
+RBR->JJ(JJ) RBR,JJ
+RBR->WRB(WRB) RBR,WRB
+RBR->RP(RP) RBR,RP
+RBR->PDT(PDT) RBR,PDT
+RBR->WP(WP) RBR,WP
+RBR->EX(EX) RBR,EX
+RBR->UH(UH) RBR,UH
+RBR->POS(POS) RBR,POS
+RBR->JJS(JJS) RBR,JJS
+RBR->VBD(VBD) RBR,VBD
+RBR->RBS(RBS) RBR,RBS
+RBR->SYM(SYM) RBR,SYM
+RBR->RBR(RBR) RBR,RBR
+RBR->JJR(JJR) RBR,JJR
+RBR->NNPS(NNPS) RBR,NNPS
+Preparing JJR
+JJR->O(O) JJR,O
+JJR->VB(VB) JJR,VB
+JJR->DT(DT) JJR,DT
+JJR->NNS(NNS) JJR,NNS
+JJR->IN(IN) JJR,IN
+JJR->NNP(NNP) JJR,NNP
+JJR->TO(TO) JJR,TO
+JJR->WDT(WDT) JJR,WDT
+JJR->VBP(VBP) JJR,VBP
+JJR->VBZ(VBZ) JJR,VBZ
+JJR->NN(NN) JJR,NN
+JJR->PRP(PRP) JJR,PRP
+JJR->VBG(VBG) JJR,VBG
+JJR->VBN(VBN) JJR,VBN
+JJR->CD(CD) JJR,CD
+JJR->MD(MD) JJR,MD
+JJR->RB(RB) JJR,RB
+JJR->CC(CC) JJR,CC
+JJR->JJ(JJ) JJR,JJ
+JJR->WRB(WRB) JJR,WRB
+JJR->RP(RP) JJR,RP
+JJR->PDT(PDT) JJR,PDT
+JJR->WP(WP) JJR,WP
+JJR->EX(EX) JJR,EX
+JJR->UH(UH) JJR,UH
+JJR->POS(POS) JJR,POS
+JJR->JJS(JJS) JJR,JJS
+JJR->VBD(VBD) JJR,VBD
+JJR->RBS(RBS) JJR,RBS
+JJR->SYM(SYM) JJR,SYM
+JJR->RBR(RBR) JJR,RBR
+JJR->JJR(JJR) JJR,JJR
+JJR->NNPS(NNPS) JJR,NNPS
+Preparing NNPS
+NNPS->O(O) NNPS,O
+NNPS->VB(VB) NNPS,VB
+NNPS->DT(DT) NNPS,DT
+NNPS->NNS(NNS) NNPS,NNS
+NNPS->IN(IN) NNPS,IN
+NNPS->NNP(NNP) NNPS,NNP
+NNPS->TO(TO) NNPS,TO
+NNPS->WDT(WDT) NNPS,WDT
+NNPS->VBP(VBP) NNPS,VBP
+NNPS->VBZ(VBZ) NNPS,VBZ
+NNPS->NN(NN) NNPS,NN
+NNPS->PRP(PRP) NNPS,PRP
+NNPS->VBG(VBG) NNPS,VBG
+NNPS->VBN(VBN) NNPS,VBN
+NNPS->CD(CD) NNPS,CD
+NNPS->MD(MD) NNPS,MD
+NNPS->RB(RB) NNPS,RB
+NNPS->CC(CC) NNPS,CC
+NNPS->JJ(JJ) NNPS,JJ
+NNPS->WRB(WRB) NNPS,WRB
+NNPS->RP(RP) NNPS,RP
+NNPS->PDT(PDT) NNPS,PDT
+NNPS->WP(WP) NNPS,WP
+NNPS->EX(EX) NNPS,EX
+NNPS->UH(UH) NNPS,UH
+NNPS->POS(POS) NNPS,POS
+NNPS->JJS(JJS) NNPS,JJS
+NNPS->VBD(VBD) NNPS,VBD
+NNPS->RBS(RBS) NNPS,RBS
+NNPS->SYM(SYM) NNPS,SYM
+NNPS->RBR(RBR) NNPS,RBR
+NNPS->JJR(JJR) NNPS,JJR
+NNPS->NNPS(NNPS) NNPS,NNPS
+Training on 462 instances
+Testing on 115 instances
+CRF: Incremental training detected.  Adding weights for some unsupported features...
+CRF weights[O,O] num features = 0
+CRF weights[O,VB] num features = 10
+CRF weights[O,DT] num features = 5
+CRF weights[O,NNS] num features = 4
+CRF weights[O,IN] num features = 6
+CRF weights[O,NNP] num features = 11
+CRF weights[O,TO] num features = 0
+CRF weights[O,WDT] num features = 3
+CRF weights[O,VBP] num features = 3
+CRF weights[O,VBZ] num features = 3
+CRF weights[O,NN] num features = 13
+CRF weights[O,PRP] num features = 2
+CRF weights[O,VBG] num features = 3
+CRF weights[O,VBN] num features = 0
+CRF weights[O,CD] num features = 2
+CRF weights[O,MD] num features = 2
+CRF weights[O,RB] num features = 4
+CRF weights[O,CC] num features = 0
+CRF weights[O,JJ] num features = 8
+CRF weights[O,WRB] num features = 2
+CRF weights[O,RP] num features = 0
+CRF weights[O,PDT] num features = 0
+CRF weights[O,WP] num features = 2
+CRF weights[O,EX] num features = 0
+CRF weights[O,UH] num features = 4
+CRF weights[O,POS] num features = 0
+CRF weights[O,JJS] num features = 4
+CRF weights[O,VBD] num features = 0
+CRF weights[O,RBS] num features = 0
+CRF weights[O,SYM] num features = 0
+CRF weights[O,RBR] num features = 0
+CRF weights[O,JJR] num features = 0
+CRF weights[O,NNPS] num features = 0
+CRF weights[VB,O] num features = 0
+CRF weights[VB,VB] num features = 0
+CRF weights[VB,DT] num features = 4
+CRF weights[VB,NNS] num features = 4
+CRF weights[VB,IN] num features = 5
+CRF weights[VB,NNP] num features = 5
+CRF weights[VB,TO] num features = 1
+CRF weights[VB,WDT] num features = 0
+CRF weights[VB,VBP] num features = 0
+CRF weights[VB,VBZ] num features = 0
+CRF weights[VB,NN] num features = 4
+CRF weights[VB,PRP] num features = 3
+CRF weights[VB,VBG] num features = 0
+CRF weights[VB,VBN] num features = 0
+CRF weights[VB,CD] num features = 1
+CRF weights[VB,MD] num features = 0
+CRF weights[VB,RB] num features = 2
+CRF weights[VB,CC] num features = 0
+CRF weights[VB,JJ] num features = 3
+CRF weights[VB,WRB] num features = 0
+CRF weights[VB,RP] num features = 1
+CRF weights[VB,PDT] num features = 0
+CRF weights[VB,WP] num features = 0
+CRF weights[VB,EX] num features = 0
+CRF weights[VB,UH] num features = 0
+CRF weights[VB,POS] num features = 0
+CRF weights[VB,JJS] num features = 0
+CRF weights[VB,VBD] num features = 0
+CRF weights[VB,RBS] num features = 0
+CRF weights[VB,SYM] num features = 0
+CRF weights[VB,RBR] num features = 0
+CRF weights[VB,JJR] num features = 0
+CRF weights[VB,NNPS] num features = 0
+CRF weights[DT,O] num features = 0
+CRF weights[DT,VB] num features = 0
+CRF weights[DT,DT] num features = 0
+CRF weights[DT,NNS] num features = 11
+CRF weights[DT,IN] num features = 2
+CRF weights[DT,NNP] num features = 7
+CRF weights[DT,TO] num features = 0
+CRF weights[DT,WDT] num features = 0
+CRF weights[DT,VBP] num features = 6
+CRF weights[DT,VBZ] num features = 2
+CRF weights[DT,NN] num features = 23
+CRF weights[DT,PRP] num features = 0
+CRF weights[DT,VBG] num features = 1
+CRF weights[DT,VBN] num features = 0
+CRF weights[DT,CD] num features = 2
+CRF weights[DT,MD] num features = 0
+CRF weights[DT,RB] num features = 0
+CRF weights[DT,CC] num features = 0
+CRF weights[DT,JJ] num features = 10
+CRF weights[DT,WRB] num features = 0
+CRF weights[DT,RP] num features = 0
+CRF weights[DT,PDT] num features = 0
+CRF weights[DT,WP] num features = 0
+CRF weights[DT,EX] num features = 0
+CRF weights[DT,UH] num features = 0
+CRF weights[DT,POS] num features = 0
+CRF weights[DT,JJS] num features = 5
+CRF weights[DT,VBD] num features = 0
+CRF weights[DT,RBS] num features = 1
+CRF weights[DT,SYM] num features = 0
+CRF weights[DT,RBR] num features = 0
+CRF weights[DT,JJR] num features = 0
+CRF weights[DT,NNPS] num features = 0
+CRF weights[NNS,O] num features = 0
+CRF weights[NNS,VB] num features = 4
+CRF weights[NNS,DT] num features = 0
+CRF weights[NNS,NNS] num features = 0
+CRF weights[NNS,IN] num features = 8
+CRF weights[NNS,NNP] num features = 0
+CRF weights[NNS,TO] num features = 0
+CRF weights[NNS,WDT] num features = 2
+CRF weights[NNS,VBP] num features = 11
+CRF weights[NNS,VBZ] num features = 2
+CRF weights[NNS,NN] num features = 0
+CRF weights[NNS,PRP] num features = 0
+CRF weights[NNS,VBG] num features = 2
+CRF weights[NNS,VBN] num features = 0
+CRF weights[NNS,CD] num features = 0
+CRF weights[NNS,MD] num features = 0
+CRF weights[NNS,RB] num features = 1
+CRF weights[NNS,CC] num features = 1
+CRF weights[NNS,JJ] num features = 0
+CRF weights[NNS,WRB] num features = 0
+CRF weights[NNS,RP] num features = 0
+CRF weights[NNS,PDT] num features = 0
+CRF weights[NNS,WP] num features = 0
+CRF weights[NNS,EX] num features = 0
+CRF weights[NNS,UH] num features = 0
+CRF weights[NNS,POS] num features = 0
+CRF weights[NNS,JJS] num features = 0
+CRF weights[NNS,VBD] num features = 0
+CRF weights[NNS,RBS] num features = 0
+CRF weights[NNS,SYM] num features = 0
+CRF weights[NNS,RBR] num features = 0
+CRF weights[NNS,JJR] num features = 0
+CRF weights[NNS,NNPS] num features = 0
+CRF weights[IN,O] num features = 0
+CRF weights[IN,VB] num features = 0
+CRF weights[IN,DT] num features = 6
+CRF weights[IN,NNS] num features = 5
+CRF weights[IN,IN] num features = 3
+CRF weights[IN,NNP] num features = 60
+CRF weights[IN,TO] num features = 0
+CRF weights[IN,WDT] num features = 0
+CRF weights[IN,VBP] num features = 0
+CRF weights[IN,VBZ] num features = 0
+CRF weights[IN,NN] num features = 7
+CRF weights[IN,PRP] num features = 1
+CRF weights[IN,VBG] num features = 1
+CRF weights[IN,VBN] num features = 0
+CRF weights[IN,CD] num features = 12
+CRF weights[IN,MD] num features = 0
+CRF weights[IN,RB] num features = 2
+CRF weights[IN,CC] num features = 0
+CRF weights[IN,JJ] num features = 2
+CRF weights[IN,WRB] num features = 0
+CRF weights[IN,RP] num features = 0
+CRF weights[IN,PDT] num features = 0
+CRF weights[IN,WP] num features = 0
+CRF weights[IN,EX] num features = 0
+CRF weights[IN,UH] num features = 0
+CRF weights[IN,POS] num features = 0
+CRF weights[IN,JJS] num features = 2
+CRF weights[IN,VBD] num features = 0
+CRF weights[IN,RBS] num features = 0
+CRF weights[IN,SYM] num features = 0
+CRF weights[IN,RBR] num features = 0
+CRF weights[IN,JJR] num features = 0
+CRF weights[IN,NNPS] num features = 0
+CRF weights[NNP,O] num features = 0
+CRF weights[NNP,VB] num features = 0
+CRF weights[NNP,DT] num features = 1
+CRF weights[NNP,NNS] num features = 3
+CRF weights[NNP,IN] num features = 8
+CRF weights[NNP,NNP] num features = 41
+CRF weights[NNP,TO] num features = 1
+CRF weights[NNP,WDT] num features = 1
+CRF weights[NNP,VBP] num features = 0
+CRF weights[NNP,VBZ] num features = 1
+CRF weights[NNP,NN] num features = 9
+CRF weights[NNP,PRP] num features = 2
+CRF weights[NNP,VBG] num features = 5
+CRF weights[NNP,VBN] num features = 0
+CRF weights[NNP,CD] num features = 6
+CRF weights[NNP,MD] num features = 0
+CRF weights[NNP,RB] num features = 3
+CRF weights[NNP,CC] num features = 2
+CRF weights[NNP,JJ] num features = 5
+CRF weights[NNP,WRB] num features = 0
+CRF weights[NNP,RP] num features = 0
+CRF weights[NNP,PDT] num features = 0
+CRF weights[NNP,WP] num features = 1
+CRF weights[NNP,EX] num features = 0
+CRF weights[NNP,UH] num features = 2
+CRF weights[NNP,POS] num features = 1
+CRF weights[NNP,JJS] num features = 0
+CRF weights[NNP,VBD] num features = 0
+CRF weights[NNP,RBS] num features = 0
+CRF weights[NNP,SYM] num features = 0
+CRF weights[NNP,RBR] num features = 1
+CRF weights[NNP,JJR] num features = 0
+CRF weights[NNP,NNPS] num features = 0
+CRF weights[TO,O] num features = 0
+CRF weights[TO,VB] num features = 12
+CRF weights[TO,DT] num features = 0
+CRF weights[TO,NNS] num features = 0
+CRF weights[TO,IN] num features = 0
+CRF weights[TO,NNP] num features = 44
+CRF weights[TO,TO] num features = 1
+CRF weights[TO,WDT] num features = 0
+CRF weights[TO,VBP] num features = 0
+CRF weights[TO,VBZ] num features = 0
+CRF weights[TO,NN] num features = 0
+CRF weights[TO,PRP] num features = 0
+CRF weights[TO,VBG] num features = 0
+CRF weights[TO,VBN] num features = 0
+CRF weights[TO,CD] num features = 0
+CRF weights[TO,MD] num features = 0
+CRF weights[TO,RB] num features = 1
+CRF weights[TO,CC] num features = 0
+CRF weights[TO,JJ] num features = 0
+CRF weights[TO,WRB] num features = 0
+CRF weights[TO,RP] num features = 0
+CRF weights[TO,PDT] num features = 0
+CRF weights[TO,WP] num features = 0
+CRF weights[TO,EX] num features = 0
+CRF weights[TO,UH] num features = 0
+CRF weights[TO,POS] num features = 0
+CRF weights[TO,JJS] num features = 0
+CRF weights[TO,VBD] num features = 0
+CRF weights[TO,RBS] num features = 0
+CRF weights[TO,SYM] num features = 0
+CRF weights[TO,RBR] num features = 0
+CRF weights[TO,JJR] num features = 0
+CRF weights[TO,NNPS] num features = 0
+CRF weights[WDT,O] num features = 0
+CRF weights[WDT,VB] num features = 0
+CRF weights[WDT,DT] num features = 0
+CRF weights[WDT,NNS] num features = 6
+CRF weights[WDT,IN] num features = 1
+CRF weights[WDT,NNP] num features = 2
+CRF weights[WDT,TO] num features = 0
+CRF weights[WDT,WDT] num features = 0
+CRF weights[WDT,VBP] num features = 9
+CRF weights[WDT,VBZ] num features = 7
+CRF weights[WDT,NN] num features = 4
+CRF weights[WDT,PRP] num features = 0
+CRF weights[WDT,VBG] num features = 0
+CRF weights[WDT,VBN] num features = 0
+CRF weights[WDT,CD] num features = 0
+CRF weights[WDT,MD] num features = 1
+CRF weights[WDT,RB] num features = 0
+CRF weights[WDT,CC] num features = 0
+CRF weights[WDT,JJ] num features = 0
+CRF weights[WDT,WRB] num features = 0
+CRF weights[WDT,RP] num features = 0
+CRF weights[WDT,PDT] num features = 0
+CRF weights[WDT,WP] num features = 0
+CRF weights[WDT,EX] num features = 0
+CRF weights[WDT,UH] num features = 0
+CRF weights[WDT,POS] num features = 0
+CRF weights[WDT,JJS] num features = 0
+CRF weights[WDT,VBD] num features = 0
+CRF weights[WDT,RBS] num features = 0
+CRF weights[WDT,SYM] num features = 0
+CRF weights[WDT,RBR] num features = 0
+CRF weights[WDT,JJR] num features = 0
+CRF weights[WDT,NNPS] num features = 0
+CRF weights[VBP,O] num features = 0
+CRF weights[VBP,VB] num features = 0
+CRF weights[VBP,DT] num features = 4
+CRF weights[VBP,NNS] num features = 1
+CRF weights[VBP,IN] num features = 7
+CRF weights[VBP,NNP] num features = 3
+CRF weights[VBP,TO] num features = 1
+CRF weights[VBP,WDT] num features = 0
+CRF weights[VBP,VBP] num features = 0
+CRF weights[VBP,VBZ] num features = 0
+CRF weights[VBP,NN] num features = 2
+CRF weights[VBP,PRP] num features = 4
+CRF weights[VBP,VBG] num features = 0
+CRF weights[VBP,VBN] num features = 1
+CRF weights[VBP,CD] num features = 1
+CRF weights[VBP,MD] num features = 0
+CRF weights[VBP,RB] num features = 3
+CRF weights[VBP,CC] num features = 0
+CRF weights[VBP,JJ] num features = 6
+CRF weights[VBP,WRB] num features = 0
+CRF weights[VBP,RP] num features = 0
+CRF weights[VBP,PDT] num features = 0
+CRF weights[VBP,WP] num features = 0
+CRF weights[VBP,EX] num features = 1
+CRF weights[VBP,UH] num features = 0
+CRF weights[VBP,POS] num features = 0
+CRF weights[VBP,JJS] num features = 0
+CRF weights[VBP,VBD] num features = 0
+CRF weights[VBP,RBS] num features = 1
+CRF weights[VBP,SYM] num features = 0
+CRF weights[VBP,RBR] num features = 1
+CRF weights[VBP,JJR] num features = 0
+CRF weights[VBP,NNPS] num features = 0
+CRF weights[VBZ,O] num features = 0
+CRF weights[VBZ,VB] num features = 0
+CRF weights[VBZ,DT] num features = 3
+CRF weights[VBZ,NNS] num features = 0
+CRF weights[VBZ,IN] num features = 3
+CRF weights[VBZ,NNP] num features = 4
+CRF weights[VBZ,TO] num features = 0
+CRF weights[VBZ,WDT] num features = 0
+CRF weights[VBZ,VBP] num features = 0
+CRF weights[VBZ,VBZ] num features = 0
+CRF weights[VBZ,NN] num features = 4
+CRF weights[VBZ,PRP] num features = 1
+CRF weights[VBZ,VBG] num features = 0
+CRF weights[VBZ,VBN] num features = 0
+CRF weights[VBZ,CD] num features = 1
+CRF weights[VBZ,MD] num features = 0
+CRF weights[VBZ,RB] num features = 2
+CRF weights[VBZ,CC] num features = 1
+CRF weights[VBZ,JJ] num features = 1
+CRF weights[VBZ,WRB] num features = 0
+CRF weights[VBZ,RP] num features = 0
+CRF weights[VBZ,PDT] num features = 0
+CRF weights[VBZ,WP] num features = 0
+CRF weights[VBZ,EX] num features = 1
+CRF weights[VBZ,UH] num features = 0
+CRF weights[VBZ,POS] num features = 0
+CRF weights[VBZ,JJS] num features = 0
+CRF weights[VBZ,VBD] num features = 0
+CRF weights[VBZ,RBS] num features = 1
+CRF weights[VBZ,SYM] num features = 2
+CRF weights[VBZ,RBR] num features = 0
+CRF weights[VBZ,JJR] num features = 1
+CRF weights[VBZ,NNPS] num features = 0
+CRF weights[NN,O] num features = 0
+CRF weights[NN,VB] num features = 3
+CRF weights[NN,DT] num features = 0
+CRF weights[NN,NNS] num features = 8
+CRF weights[NN,IN] num features = 7
+CRF weights[NN,NNP] num features = 6
+CRF weights[NN,TO] num features = 1
+CRF weights[NN,WDT] num features = 1
+CRF weights[NN,VBP] num features = 1
+CRF weights[NN,VBZ] num features = 2
+CRF weights[NN,NN] num features = 18
+CRF weights[NN,PRP] num features = 2
+CRF weights[NN,VBG] num features = 3
+CRF weights[NN,VBN] num features = 2
+CRF weights[NN,CD] num features = 6
+CRF weights[NN,MD] num features = 1
+CRF weights[NN,RB] num features = 0
+CRF weights[NN,CC] num features = 2
+CRF weights[NN,JJ] num features = 4
+CRF weights[NN,WRB] num features = 0
+CRF weights[NN,RP] num features = 0
+CRF weights[NN,PDT] num features = 0
+CRF weights[NN,WP] num features = 0
+CRF weights[NN,EX] num features = 0
+CRF weights[NN,UH] num features = 0
+CRF weights[NN,POS] num features = 0
+CRF weights[NN,JJS] num features = 0
+CRF weights[NN,VBD] num features = 0
+CRF weights[NN,RBS] num features = 0
+CRF weights[NN,SYM] num features = 5
+CRF weights[NN,RBR] num features = 0
+CRF weights[NN,JJR] num features = 0
+CRF weights[NN,NNPS] num features = 0
+CRF weights[PRP,O] num features = 0
+CRF weights[PRP,VB] num features = 4
+CRF weights[PRP,DT] num features = 3
+CRF weights[PRP,NNS] num features = 1
+CRF weights[PRP,IN] num features = 2
+CRF weights[PRP,NNP] num features = 2
+CRF weights[PRP,TO] num features = 1
+CRF weights[PRP,WDT] num features = 1
+CRF weights[PRP,VBP] num features = 8
+CRF weights[PRP,VBZ] num features = 1
+CRF weights[PRP,NN] num features = 2
+CRF weights[PRP,PRP] num features = 0
+CRF weights[PRP,VBG] num features = 0
+CRF weights[PRP,VBN] num features = 0
+CRF weights[PRP,CD] num features = 1
+CRF weights[PRP,MD] num features = 2
+CRF weights[PRP,RB] num features = 3
+CRF weights[PRP,CC] num features = 0
+CRF weights[PRP,JJ] num features = 1
+CRF weights[PRP,WRB] num features = 0
+CRF weights[PRP,RP] num features = 0
+CRF weights[PRP,PDT] num features = 1
+CRF weights[PRP,WP] num features = 0
+CRF weights[PRP,EX] num features = 0
+CRF weights[PRP,UH] num features = 0
+CRF weights[PRP,POS] num features = 0
+CRF weights[PRP,JJS] num features = 0
+CRF weights[PRP,VBD] num features = 1
+CRF weights[PRP,RBS] num features = 0
+CRF weights[PRP,SYM] num features = 0
+CRF weights[PRP,RBR] num features = 0
+CRF weights[PRP,JJR] num features = 0
+CRF weights[PRP,NNPS] num features = 0
+CRF weights[VBG,O] num features = 0
+CRF weights[VBG,VB] num features = 0
+CRF weights[VBG,DT] num features = 1
+CRF weights[VBG,NNS] num features = 1
+CRF weights[VBG,IN] num features = 8
+CRF weights[VBG,NNP] num features = 7
+CRF weights[VBG,TO] num features = 0
+CRF weights[VBG,WDT] num features = 0
+CRF weights[VBG,VBP] num features = 0
+CRF weights[VBG,VBZ] num features = 0
+CRF weights[VBG,NN] num features = 1
+CRF weights[VBG,PRP] num features = 0
+CRF weights[VBG,VBG] num features = 0
+CRF weights[VBG,VBN] num features = 0
+CRF weights[VBG,CD] num features = 1
+CRF weights[VBG,MD] num features = 0
+CRF weights[VBG,RB] num features = 0
+CRF weights[VBG,CC] num features = 0
+CRF weights[VBG,JJ] num features = 1
+CRF weights[VBG,WRB] num features = 0
+CRF weights[VBG,RP] num features = 0
+CRF weights[VBG,PDT] num features = 0
+CRF weights[VBG,WP] num features = 0
+CRF weights[VBG,EX] num features = 0
+CRF weights[VBG,UH] num features = 0
+CRF weights[VBG,POS] num features = 0
+CRF weights[VBG,JJS] num features = 0
+CRF weights[VBG,VBD] num features = 0
+CRF weights[VBG,RBS] num features = 0
+CRF weights[VBG,SYM] num features = 0
+CRF weights[VBG,RBR] num features = 0
+CRF weights[VBG,JJR] num features = 0
+CRF weights[VBG,NNPS] num features = 0
+CRF weights[VBN,O] num features = 0
+CRF weights[VBN,VB] num features = 0
+CRF weights[VBN,DT] num features = 0
+CRF weights[VBN,NNS] num features = 0
+CRF weights[VBN,IN] num features = 2
+CRF weights[VBN,NNP] num features = 0
+CRF weights[VBN,TO] num features = 0
+CRF weights[VBN,WDT] num features = 0
+CRF weights[VBN,VBP] num features = 0
+CRF weights[VBN,VBZ] num features = 0
+CRF weights[VBN,NN] num features = 0
+CRF weights[VBN,PRP] num features = 0
+CRF weights[VBN,VBG] num features = 0
+CRF weights[VBN,VBN] num features = 0
+CRF weights[VBN,CD] num features = 0
+CRF weights[VBN,MD] num features = 0
+CRF weights[VBN,RB] num features = 0
+CRF weights[VBN,CC] num features = 0
+CRF weights[VBN,JJ] num features = 0
+CRF weights[VBN,WRB] num features = 0
+CRF weights[VBN,RP] num features = 0
+CRF weights[VBN,PDT] num features = 0
+CRF weights[VBN,WP] num features = 0
+CRF weights[VBN,EX] num features = 0
+CRF weights[VBN,UH] num features = 0
+CRF weights[VBN,POS] num features = 0
+CRF weights[VBN,JJS] num features = 0
+CRF weights[VBN,VBD] num features = 0
+CRF weights[VBN,RBS] num features = 0
+CRF weights[VBN,SYM] num features = 0
+CRF weights[VBN,RBR] num features = 0
+CRF weights[VBN,JJR] num features = 0
+CRF weights[VBN,NNPS] num features = 0
+CRF weights[CD,O] num features = 0
+CRF weights[CD,VB] num features = 1
+CRF weights[CD,DT] num features = 1
+CRF weights[CD,NNS] num features = 5
+CRF weights[CD,IN] num features = 4
+CRF weights[CD,NNP] num features = 0
+CRF weights[CD,TO] num features = 0
+CRF weights[CD,WDT] num features = 0
+CRF weights[CD,VBP] num features = 0
+CRF weights[CD,VBZ] num features = 0
+CRF weights[CD,NN] num features = 4
+CRF weights[CD,PRP] num features = 0
+CRF weights[CD,VBG] num features = 0
+CRF weights[CD,VBN] num features = 0
+CRF weights[CD,CD] num features = 19
+CRF weights[CD,MD] num features = 0
+CRF weights[CD,RB] num features = 3
+CRF weights[CD,CC] num features = 2
+CRF weights[CD,JJ] num features = 1
+CRF weights[CD,WRB] num features = 0
+CRF weights[CD,RP] num features = 0
+CRF weights[CD,PDT] num features = 0
+CRF weights[CD,WP] num features = 0
+CRF weights[CD,EX] num features = 0
+CRF weights[CD,UH] num features = 0
+CRF weights[CD,POS] num features = 0
+CRF weights[CD,JJS] num features = 0
+CRF weights[CD,VBD] num features = 0
+CRF weights[CD,RBS] num features = 0
+CRF weights[CD,SYM] num features = 0
+CRF weights[CD,RBR] num features = 0
+CRF weights[CD,JJR] num features = 0
+CRF weights[CD,NNPS] num features = 0
+CRF weights[MD,O] num features = 0
+CRF weights[MD,VB] num features = 4
+CRF weights[MD,DT] num features = 2
+CRF weights[MD,NNS] num features = 0
+CRF weights[MD,IN] num features = 0
+CRF weights[MD,NNP] num features = 0
+CRF weights[MD,TO] num features = 0
+CRF weights[MD,WDT] num features = 0
+CRF weights[MD,VBP] num features = 0
+CRF weights[MD,VBZ] num features = 0
+CRF weights[MD,NN] num features = 0
+CRF weights[MD,PRP] num features = 1
+CRF weights[MD,VBG] num features = 0
+CRF weights[MD,VBN] num features = 0
+CRF weights[MD,CD] num features = 0
+CRF weights[MD,MD] num features = 0
+CRF weights[MD,RB] num features = 0
+CRF weights[MD,CC] num features = 0
+CRF weights[MD,JJ] num features = 0
+CRF weights[MD,WRB] num features = 0
+CRF weights[MD,RP] num features = 0
+CRF weights[MD,PDT] num features = 0
+CRF weights[MD,WP] num features = 0
+CRF weights[MD,EX] num features = 0
+CRF weights[MD,UH] num features = 0
+CRF weights[MD,POS] num features = 0
+CRF weights[MD,JJS] num features = 0
+CRF weights[MD,VBD] num features = 0
+CRF weights[MD,RBS] num features = 0
+CRF weights[MD,SYM] num features = 0
+CRF weights[MD,RBR] num features = 0
+CRF weights[MD,JJR] num features = 0
+CRF weights[MD,NNPS] num features = 0
+CRF weights[RB,O] num features = 0
+CRF weights[RB,VB] num features = 3
+CRF weights[RB,DT] num features = 1
+CRF weights[RB,NNS] num features = 0
+CRF weights[RB,IN] num features = 2
+CRF weights[RB,NNP] num features = 2
+CRF weights[RB,TO] num features = 1
+CRF weights[RB,WDT] num features = 0
+CRF weights[RB,VBP] num features = 2
+CRF weights[RB,VBZ] num features = 1
+CRF weights[RB,NN] num features = 2
+CRF weights[RB,PRP] num features = 2
+CRF weights[RB,VBG] num features = 2
+CRF weights[RB,VBN] num features = 0
+CRF weights[RB,CD] num features = 2
+CRF weights[RB,MD] num features = 1
+CRF weights[RB,RB] num features = 3
+CRF weights[RB,CC] num features = 1
+CRF weights[RB,JJ] num features = 2
+CRF weights[RB,WRB] num features = 0
+CRF weights[RB,RP] num features = 0
+CRF weights[RB,PDT] num features = 0
+CRF weights[RB,WP] num features = 0
+CRF weights[RB,EX] num features = 0
+CRF weights[RB,UH] num features = 0
+CRF weights[RB,POS] num features = 0
+CRF weights[RB,JJS] num features = 0
+CRF weights[RB,VBD] num features = 0
+CRF weights[RB,RBS] num features = 0
+CRF weights[RB,SYM] num features = 0
+CRF weights[RB,RBR] num features = 0
+CRF weights[RB,JJR] num features = 1
+CRF weights[RB,NNPS] num features = 0
+CRF weights[CC,O] num features = 0
+CRF weights[CC,VB] num features = 2
+CRF weights[CC,DT] num features = 1
+CRF weights[CC,NNS] num features = 0
+CRF weights[CC,IN] num features = 1
+CRF weights[CC,NNP] num features = 13
+CRF weights[CC,TO] num features = 0
+CRF weights[CC,WDT] num features = 0
+CRF weights[CC,VBP] num features = 2
+CRF weights[CC,VBZ] num features = 0
+CRF weights[CC,NN] num features = 2
+CRF weights[CC,PRP] num features = 2
+CRF weights[CC,VBG] num features = 1
+CRF weights[CC,VBN] num features = 0
+CRF weights[CC,CD] num features = 2
+CRF weights[CC,MD] num features = 0
+CRF weights[CC,RB] num features = 1
+CRF weights[CC,CC] num features = 0
+CRF weights[CC,JJ] num features = 0
+CRF weights[CC,WRB] num features = 0
+CRF weights[CC,RP] num features = 0
+CRF weights[CC,PDT] num features = 0
+CRF weights[CC,WP] num features = 0
+CRF weights[CC,EX] num features = 0
+CRF weights[CC,UH] num features = 0
+CRF weights[CC,POS] num features = 0
+CRF weights[CC,JJS] num features = 0
+CRF weights[CC,VBD] num features = 0
+CRF weights[CC,RBS] num features = 0
+CRF weights[CC,SYM] num features = 0
+CRF weights[CC,RBR] num features = 0
+CRF weights[CC,JJR] num features = 1
+CRF weights[CC,NNPS] num features = 0
+CRF weights[JJ,O] num features = 0
+CRF weights[JJ,VB] num features = 0
+CRF weights[JJ,DT] num features = 0
+CRF weights[JJ,NNS] num features = 3
+CRF weights[JJ,IN] num features = 3
+CRF weights[JJ,NNP] num features = 7
+CRF weights[JJ,TO] num features = 0
+CRF weights[JJ,WDT] num features = 0
+CRF weights[JJ,VBP] num features = 0
+CRF weights[JJ,VBZ] num features = 1
+CRF weights[JJ,NN] num features = 14
+CRF weights[JJ,PRP] num features = 0
+CRF weights[JJ,VBG] num features = 0
+CRF weights[JJ,VBN] num features = 0
+CRF weights[JJ,CD] num features = 0
+CRF weights[JJ,MD] num features = 1
+CRF weights[JJ,RB] num features = 0
+CRF weights[JJ,CC] num features = 0
+CRF weights[JJ,JJ] num features = 2
+CRF weights[JJ,WRB] num features = 0
+CRF weights[JJ,RP] num features = 0
+CRF weights[JJ,PDT] num features = 0
+CRF weights[JJ,WP] num features = 0
+CRF weights[JJ,EX] num features = 0
+CRF weights[JJ,UH] num features = 1
+CRF weights[JJ,POS] num features = 0
+CRF weights[JJ,JJS] num features = 0
+CRF weights[JJ,VBD] num features = 0
+CRF weights[JJ,RBS] num features = 0
+CRF weights[JJ,SYM] num features = 0
+CRF weights[JJ,RBR] num features = 0
+CRF weights[JJ,JJR] num features = 0
+CRF weights[JJ,NNPS] num features = 0
+CRF weights[WRB,O] num features = 0
+CRF weights[WRB,VB] num features = 0
+CRF weights[WRB,DT] num features = 0
+CRF weights[WRB,NNS] num features = 0
+CRF weights[WRB,IN] num features = 1
+CRF weights[WRB,NNP] num features = 0
+CRF weights[WRB,TO] num features = 0
+CRF weights[WRB,WDT] num features = 0
+CRF weights[WRB,VBP] num features = 0
+CRF weights[WRB,VBZ] num features = 0
+CRF weights[WRB,NN] num features = 0
+CRF weights[WRB,PRP] num features = 0
+CRF weights[WRB,VBG] num features = 0
+CRF weights[WRB,VBN] num features = 0
+CRF weights[WRB,CD] num features = 0
+CRF weights[WRB,MD] num features = 0
+CRF weights[WRB,RB] num features = 1
+CRF weights[WRB,CC] num features = 0
+CRF weights[WRB,JJ] num features = 1
+CRF weights[WRB,WRB] num features = 0
+CRF weights[WRB,RP] num features = 0
+CRF weights[WRB,PDT] num features = 0
+CRF weights[WRB,WP] num features = 0
+CRF weights[WRB,EX] num features = 0
+CRF weights[WRB,UH] num features = 0
+CRF weights[WRB,POS] num features = 0
+CRF weights[WRB,JJS] num features = 0
+CRF weights[WRB,VBD] num features = 0
+CRF weights[WRB,RBS] num features = 0
+CRF weights[WRB,SYM] num features = 0
+CRF weights[WRB,RBR] num features = 0
+CRF weights[WRB,JJR] num features = 0
+CRF weights[WRB,NNPS] num features = 0
+CRF weights[RP,O] num features = 0
+CRF weights[RP,VB] num features = 0
+CRF weights[RP,DT] num features = 1
+CRF weights[RP,NNS] num features = 0
+CRF weights[RP,IN] num features = 0
+CRF weights[RP,NNP] num features = 0
+CRF weights[RP,TO] num features = 0
+CRF weights[RP,WDT] num features = 0
+CRF weights[RP,VBP] num features = 0
+CRF weights[RP,VBZ] num features = 0
+CRF weights[RP,NN] num features = 0
+CRF weights[RP,PRP] num features = 0
+CRF weights[RP,VBG] num features = 0
+CRF weights[RP,VBN] num features = 0
+CRF weights[RP,CD] num features = 0
+CRF weights[RP,MD] num features = 0
+CRF weights[RP,RB] num features = 0
+CRF weights[RP,CC] num features = 0
+CRF weights[RP,JJ] num features = 0
+CRF weights[RP,WRB] num features = 0
+CRF weights[RP,RP] num features = 0
+CRF weights[RP,PDT] num features = 0
+CRF weights[RP,WP] num features = 0
+CRF weights[RP,EX] num features = 0
+CRF weights[RP,UH] num features = 0
+CRF weights[RP,POS] num features = 0
+CRF weights[RP,JJS] num features = 0
+CRF weights[RP,VBD] num features = 0
+CRF weights[RP,RBS] num features = 0
+CRF weights[RP,SYM] num features = 0
+CRF weights[RP,RBR] num features = 0
+CRF weights[RP,JJR] num features = 0
+CRF weights[RP,NNPS] num features = 0
+CRF weights[PDT,O] num features = 0
+CRF weights[PDT,VB] num features = 0
+CRF weights[PDT,DT] num features = 1
+CRF weights[PDT,NNS] num features = 0
+CRF weights[PDT,IN] num features = 0
+CRF weights[PDT,NNP] num features = 0
+CRF weights[PDT,TO] num features = 0
+CRF weights[PDT,WDT] num features = 0
+CRF weights[PDT,VBP] num features = 0
+CRF weights[PDT,VBZ] num features = 0
+CRF weights[PDT,NN] num features = 0
+CRF weights[PDT,PRP] num features = 0
+CRF weights[PDT,VBG] num features = 0
+CRF weights[PDT,VBN] num features = 0
+CRF weights[PDT,CD] num features = 0
+CRF weights[PDT,MD] num features = 0
+CRF weights[PDT,RB] num features = 0
+CRF weights[PDT,CC] num features = 0
+CRF weights[PDT,JJ] num features = 0
+CRF weights[PDT,WRB] num features = 0
+CRF weights[PDT,RP] num features = 0
+CRF weights[PDT,PDT] num features = 0
+CRF weights[PDT,WP] num features = 0
+CRF weights[PDT,EX] num features = 0
+CRF weights[PDT,UH] num features = 0
+CRF weights[PDT,POS] num features = 0
+CRF weights[PDT,JJS] num features = 0
+CRF weights[PDT,VBD] num features = 0
+CRF weights[PDT,RBS] num features = 0
+CRF weights[PDT,SYM] num features = 0
+CRF weights[PDT,RBR] num features = 0
+CRF weights[PDT,JJR] num features = 0
+CRF weights[PDT,NNPS] num features = 0
+CRF weights[WP,O] num features = 0
+CRF weights[WP,VB] num features = 0
+CRF weights[WP,DT] num features = 0
+CRF weights[WP,NNS] num features = 0
+CRF weights[WP,IN] num features = 1
+CRF weights[WP,NNP] num features = 0
+CRF weights[WP,TO] num features = 0
+CRF weights[WP,WDT] num features = 0
+CRF weights[WP,VBP] num features = 2
+CRF weights[WP,VBZ] num features = 3
+CRF weights[WP,NN] num features = 0
+CRF weights[WP,PRP] num features = 0
+CRF weights[WP,VBG] num features = 0
+CRF weights[WP,VBN] num features = 0
+CRF weights[WP,CD] num features = 0
+CRF weights[WP,MD] num features = 0
+CRF weights[WP,RB] num features = 0
+CRF weights[WP,CC] num features = 0
+CRF weights[WP,JJ] num features = 0
+CRF weights[WP,WRB] num features = 0
+CRF weights[WP,RP] num features = 0
+CRF weights[WP,PDT] num features = 0
+CRF weights[WP,WP] num features = 0
+CRF weights[WP,EX] num features = 0
+CRF weights[WP,UH] num features = 0
+CRF weights[WP,POS] num features = 0
+CRF weights[WP,JJS] num features = 0
+CRF weights[WP,VBD] num features = 0
+CRF weights[WP,RBS] num features = 0
+CRF weights[WP,SYM] num features = 0
+CRF weights[WP,RBR] num features = 0
+CRF weights[WP,JJR] num features = 0
+CRF weights[WP,NNPS] num features = 0
+CRF weights[EX,O] num features = 0
+CRF weights[EX,VB] num features = 0
+CRF weights[EX,DT] num features = 2
+CRF weights[EX,NNS] num features = 0
+CRF weights[EX,IN] num features = 1
+CRF weights[EX,NNP] num features = 0
+CRF weights[EX,TO] num features = 0
+CRF weights[EX,WDT] num features = 0
+CRF weights[EX,VBP] num features = 0
+CRF weights[EX,VBZ] num features = 0
+CRF weights[EX,NN] num features = 0
+CRF weights[EX,PRP] num features = 0
+CRF weights[EX,VBG] num features = 0
+CRF weights[EX,VBN] num features = 0
+CRF weights[EX,CD] num features = 1
+CRF weights[EX,MD] num features = 0
+CRF weights[EX,RB] num features = 0
+CRF weights[EX,CC] num features = 0
+CRF weights[EX,JJ] num features = 0
+CRF weights[EX,WRB] num features = 0
+CRF weights[EX,RP] num features = 0
+CRF weights[EX,PDT] num features = 0
+CRF weights[EX,WP] num features = 0
+CRF weights[EX,EX] num features = 0
+CRF weights[EX,UH] num features = 0
+CRF weights[EX,POS] num features = 0
+CRF weights[EX,JJS] num features = 0
+CRF weights[EX,VBD] num features = 0
+CRF weights[EX,RBS] num features = 0
+CRF weights[EX,SYM] num features = 0
+CRF weights[EX,RBR] num features = 0
+CRF weights[EX,JJR] num features = 0
+CRF weights[EX,NNPS] num features = 0
+CRF weights[UH,O] num features = 0
+CRF weights[UH,VB] num features = 2
+CRF weights[UH,DT] num features = 0
+CRF weights[UH,NNS] num features = 0
+CRF weights[UH,IN] num features = 0
+CRF weights[UH,NNP] num features = 0
+CRF weights[UH,TO] num features = 0
+CRF weights[UH,WDT] num features = 0
+CRF weights[UH,VBP] num features = 0
+CRF weights[UH,VBZ] num features = 0
+CRF weights[UH,NN] num features = 0
+CRF weights[UH,PRP] num features = 2
+CRF weights[UH,VBG] num features = 0
+CRF weights[UH,VBN] num features = 0
+CRF weights[UH,CD] num features = 0
+CRF weights[UH,MD] num features = 0
+CRF weights[UH,RB] num features = 0
+CRF weights[UH,CC] num features = 0
+CRF weights[UH,JJ] num features = 0
+CRF weights[UH,WRB] num features = 0
+CRF weights[UH,RP] num features = 0
+CRF weights[UH,PDT] num features = 0
+CRF weights[UH,WP] num features = 0
+CRF weights[UH,EX] num features = 0
+CRF weights[UH,UH] num features = 0
+CRF weights[UH,POS] num features = 0
+CRF weights[UH,JJS] num features = 0
+CRF weights[UH,VBD] num features = 0
+CRF weights[UH,RBS] num features = 0
+CRF weights[UH,SYM] num features = 0
+CRF weights[UH,RBR] num features = 0
+CRF weights[UH,JJR] num features = 0
+CRF weights[UH,NNPS] num features = 0
+CRF weights[POS,O] num features = 0
+CRF weights[POS,VB] num features = 0
+CRF weights[POS,DT] num features = 0
+CRF weights[POS,NNS] num features = 1
+CRF weights[POS,IN] num features = 0
+CRF weights[POS,NNP] num features = 0
+CRF weights[POS,TO] num features = 0
+CRF weights[POS,WDT] num features = 0
+CRF weights[POS,VBP] num features = 0
+CRF weights[POS,VBZ] num features = 0
+CRF weights[POS,NN] num features = 1
+CRF weights[POS,PRP] num features = 0
+CRF weights[POS,VBG] num features = 0
+CRF weights[POS,VBN] num features = 0
+CRF weights[POS,CD] num features = 0
+CRF weights[POS,MD] num features = 0
+CRF weights[POS,RB] num features = 0
+CRF weights[POS,CC] num features = 0
+CRF weights[POS,JJ] num features = 0
+CRF weights[POS,WRB] num features = 0
+CRF weights[POS,RP] num features = 0
+CRF weights[POS,PDT] num features = 0
+CRF weights[POS,WP] num features = 0
+CRF weights[POS,EX] num features = 0
+CRF weights[POS,UH] num features = 0
+CRF weights[POS,POS] num features = 0
+CRF weights[POS,JJS] num features = 0
+CRF weights[POS,VBD] num features = 0
+CRF weights[POS,RBS] num features = 0
+CRF weights[POS,SYM] num features = 0
+CRF weights[POS,RBR] num features = 0
+CRF weights[POS,JJR] num features = 0
+CRF weights[POS,NNPS] num features = 0
+CRF weights[JJS,O] num features = 0
+CRF weights[JJS,VB] num features = 0
+CRF weights[JJS,DT] num features = 0
+CRF weights[JJS,NNS] num features = 2
+CRF weights[JJS,IN] num features = 0
+CRF weights[JJS,NNP] num features = 0
+CRF weights[JJS,TO] num features = 0
+CRF weights[JJS,WDT] num features = 0
+CRF weights[JJS,VBP] num features = 0
+CRF weights[JJS,VBZ] num features = 0
+CRF weights[JJS,NN] num features = 6
+CRF weights[JJS,PRP] num features = 0
+CRF weights[JJS,VBG] num features = 0
+CRF weights[JJS,VBN] num features = 0
+CRF weights[JJS,CD] num features = 1
+CRF weights[JJS,MD] num features = 0
+CRF weights[JJS,RB] num features = 0
+CRF weights[JJS,CC] num features = 0
+CRF weights[JJS,JJ] num features = 1
+CRF weights[JJS,WRB] num features = 0
+CRF weights[JJS,RP] num features = 0
+CRF weights[JJS,PDT] num features = 0
+CRF weights[JJS,WP] num features = 0
+CRF weights[JJS,EX] num features = 0
+CRF weights[JJS,UH] num features = 0
+CRF weights[JJS,POS] num features = 0
+CRF weights[JJS,JJS] num features = 0
+CRF weights[JJS,VBD] num features = 0
+CRF weights[JJS,RBS] num features = 0
+CRF weights[JJS,SYM] num features = 0
+CRF weights[JJS,RBR] num features = 0
+CRF weights[JJS,JJR] num features = 0
+CRF weights[JJS,NNPS] num features = 0
+CRF weights[VBD,O] num features = 0
+CRF weights[VBD,VB] num features = 0
+CRF weights[VBD,DT] num features = 0
+CRF weights[VBD,NNS] num features = 0
+CRF weights[VBD,IN] num features = 0
+CRF weights[VBD,NNP] num features = 0
+CRF weights[VBD,TO] num features = 0
+CRF weights[VBD,WDT] num features = 0
+CRF weights[VBD,VBP] num features = 0
+CRF weights[VBD,VBZ] num features = 0
+CRF weights[VBD,NN] num features = 0
+CRF weights[VBD,PRP] num features = 0
+CRF weights[VBD,VBG] num features = 0
+CRF weights[VBD,VBN] num features = 0
+CRF weights[VBD,CD] num features = 1
+CRF weights[VBD,MD] num features = 0
+CRF weights[VBD,RB] num features = 0
+CRF weights[VBD,CC] num features = 0
+CRF weights[VBD,JJ] num features = 0
+CRF weights[VBD,WRB] num features = 0
+CRF weights[VBD,RP] num features = 0
+CRF weights[VBD,PDT] num features = 0
+CRF weights[VBD,WP] num features = 0
+CRF weights[VBD,EX] num features = 0
+CRF weights[VBD,UH] num features = 0
+CRF weights[VBD,POS] num features = 0
+CRF weights[VBD,JJS] num features = 0
+CRF weights[VBD,VBD] num features = 0
+CRF weights[VBD,RBS] num features = 0
+CRF weights[VBD,SYM] num features = 0
+CRF weights[VBD,RBR] num features = 0
+CRF weights[VBD,JJR] num features = 0
+CRF weights[VBD,NNPS] num features = 0
+CRF weights[RBS,O] num features = 0
+CRF weights[RBS,VB] num features = 0
+CRF weights[RBS,DT] num features = 0
+CRF weights[RBS,NNS] num features = 0
+CRF weights[RBS,IN] num features = 0
+CRF weights[RBS,NNP] num features = 0
+CRF weights[RBS,TO] num features = 0
+CRF weights[RBS,WDT] num features = 0
+CRF weights[RBS,VBP] num features = 0
+CRF weights[RBS,VBZ] num features = 0
+CRF weights[RBS,NN] num features = 0
+CRF weights[RBS,PRP] num features = 0
+CRF weights[RBS,VBG] num features = 0
+CRF weights[RBS,VBN] num features = 0
+CRF weights[RBS,CD] num features = 0
+CRF weights[RBS,MD] num features = 0
+CRF weights[RBS,RB] num features = 0
+CRF weights[RBS,CC] num features = 0
+CRF weights[RBS,JJ] num features = 2
+CRF weights[RBS,WRB] num features = 0
+CRF weights[RBS,RP] num features = 0
+CRF weights[RBS,PDT] num features = 0
+CRF weights[RBS,WP] num features = 0
+CRF weights[RBS,EX] num features = 0
+CRF weights[RBS,UH] num features = 0
+CRF weights[RBS,POS] num features = 0
+CRF weights[RBS,JJS] num features = 0
+CRF weights[RBS,VBD] num features = 0
+CRF weights[RBS,RBS] num features = 0
+CRF weights[RBS,SYM] num features = 0
+CRF weights[RBS,RBR] num features = 0
+CRF weights[RBS,JJR] num features = 0
+CRF weights[RBS,NNPS] num features = 0
+CRF weights[SYM,O] num features = 0
+CRF weights[SYM,VB] num features = 0
+CRF weights[SYM,DT] num features = 0
+CRF weights[SYM,NNS] num features = 0
+CRF weights[SYM,IN] num features = 0
+CRF weights[SYM,NNP] num features = 0
+CRF weights[SYM,TO] num features = 0
+CRF weights[SYM,WDT] num features = 0
+CRF weights[SYM,VBP] num features = 0
+CRF weights[SYM,VBZ] num features = 0
+CRF weights[SYM,NN] num features = 0
+CRF weights[SYM,PRP] num features = 0
+CRF weights[SYM,VBG] num features = 0
+CRF weights[SYM,VBN] num features = 0
+CRF weights[SYM,CD] num features = 2
+CRF weights[SYM,MD] num features = 0
+CRF weights[SYM,RB] num features = 0
+CRF weights[SYM,CC] num features = 0
+CRF weights[SYM,JJ] num features = 0
+CRF weights[SYM,WRB] num features = 0
+CRF weights[SYM,RP] num features = 0
+CRF weights[SYM,PDT] num features = 0
+CRF weights[SYM,WP] num features = 0
+CRF weights[SYM,EX] num features = 0
+CRF weights[SYM,UH] num features = 0
+CRF weights[SYM,POS] num features = 0
+CRF weights[SYM,JJS] num features = 0
+CRF weights[SYM,VBD] num features = 0
+CRF weights[SYM,RBS] num features = 0
+CRF weights[SYM,SYM] num features = 5
+CRF weights[SYM,RBR] num features = 0
+CRF weights[SYM,JJR] num features = 0
+CRF weights[SYM,NNPS] num features = 0
+CRF weights[RBR,O] num features = 0
+CRF weights[RBR,VB] num features = 0
+CRF weights[RBR,DT] num features = 0
+CRF weights[RBR,NNS] num features = 0
+CRF weights[RBR,IN] num features = 1
+CRF weights[RBR,NNP] num features = 0
+CRF weights[RBR,TO] num features = 0
+CRF weights[RBR,WDT] num features = 0
+CRF weights[RBR,VBP] num features = 0
+CRF weights[RBR,VBZ] num features = 0
+CRF weights[RBR,NN] num features = 0
+CRF weights[RBR,PRP] num features = 0
+CRF weights[RBR,VBG] num features = 0
+CRF weights[RBR,VBN] num features = 0
+CRF weights[RBR,CD] num features = 0
+CRF weights[RBR,MD] num features = 0
+CRF weights[RBR,RB] num features = 0
+CRF weights[RBR,CC] num features = 0
+CRF weights[RBR,JJ] num features = 0
+CRF weights[RBR,WRB] num features = 0
+CRF weights[RBR,RP] num features = 0
+CRF weights[RBR,PDT] num features = 0
+CRF weights[RBR,WP] num features = 0
+CRF weights[RBR,EX] num features = 0
+CRF weights[RBR,UH] num features = 0
+CRF weights[RBR,POS] num features = 0
+CRF weights[RBR,JJS] num features = 0
+CRF weights[RBR,VBD] num features = 0
+CRF weights[RBR,RBS] num features = 0
+CRF weights[RBR,SYM] num features = 0
+CRF weights[RBR,RBR] num features = 0
+CRF weights[RBR,JJR] num features = 0
+CRF weights[RBR,NNPS] num features = 0
+CRF weights[JJR,O] num features = 0
+CRF weights[JJR,VB] num features = 0
+CRF weights[JJR,DT] num features = 0
+CRF weights[JJR,NNS] num features = 0
+CRF weights[JJR,IN] num features = 1
+CRF weights[JJR,NNP] num features = 0
+CRF weights[JJR,TO] num features = 0
+CRF weights[JJR,WDT] num features = 0
+CRF weights[JJR,VBP] num features = 0
+CRF weights[JJR,VBZ] num features = 0
+CRF weights[JJR,NN] num features = 0
+CRF weights[JJR,PRP] num features = 0
+CRF weights[JJR,VBG] num features = 0
+CRF weights[JJR,VBN] num features = 0
+CRF weights[JJR,CD] num features = 0
+CRF weights[JJR,MD] num features = 0
+CRF weights[JJR,RB] num features = 0
+CRF weights[JJR,CC] num features = 0
+CRF weights[JJR,JJ] num features = 0
+CRF weights[JJR,WRB] num features = 0
+CRF weights[JJR,RP] num features = 0
+CRF weights[JJR,PDT] num features = 0
+CRF weights[JJR,WP] num features = 0
+CRF weights[JJR,EX] num features = 0
+CRF weights[JJR,UH] num features = 0
+CRF weights[JJR,POS] num features = 0
+CRF weights[JJR,JJS] num features = 0
+CRF weights[JJR,VBD] num features = 0
+CRF weights[JJR,RBS] num features = 0
+CRF weights[JJR,SYM] num features = 0
+CRF weights[JJR,RBR] num features = 0
+CRF weights[JJR,JJR] num features = 0
+CRF weights[JJR,NNPS] num features = 0
+CRF weights[NNPS,O] num features = 0
+CRF weights[NNPS,VB] num features = 0
+CRF weights[NNPS,DT] num features = 0
+CRF weights[NNPS,NNS] num features = 0
+CRF weights[NNPS,IN] num features = 0
+CRF weights[NNPS,NNP] num features = 0
+CRF weights[NNPS,TO] num features = 0
+CRF weights[NNPS,WDT] num features = 0
+CRF weights[NNPS,VBP] num features = 0
+CRF weights[NNPS,VBZ] num features = 0
+CRF weights[NNPS,NN] num features = 0
+CRF weights[NNPS,PRP] num features = 0
+CRF weights[NNPS,VBG] num features = 0
+CRF weights[NNPS,VBN] num features = 0
+CRF weights[NNPS,CD] num features = 0
+CRF weights[NNPS,MD] num features = 0
+CRF weights[NNPS,RB] num features = 0
+CRF weights[NNPS,CC] num features = 0
+CRF weights[NNPS,JJ] num features = 0
+CRF weights[NNPS,WRB] num features = 0
+CRF weights[NNPS,RP] num features = 0
+CRF weights[NNPS,PDT] num features = 0
+CRF weights[NNPS,WP] num features = 0
+CRF weights[NNPS,EX] num features = 0
+CRF weights[NNPS,UH] num features = 0
+CRF weights[NNPS,POS] num features = 0
+CRF weights[NNPS,JJS] num features = 0
+CRF weights[NNPS,VBD] num features = 0
+CRF weights[NNPS,RBS] num features = 0
+CRF weights[NNPS,SYM] num features = 0
+CRF weights[NNPS,RBR] num features = 0
+CRF weights[NNPS,JJR] num features = 0
+CRF weights[NNPS,NNPS] num features = 0
+Number of weights = 1963
+Gathering constraints...
+Creating 10 threads for updating gradient...
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-12185.328851710683
+getValue() (loglikelihood, optimizable by label likelihood) =-11324.29226437864
+attempted step too big. scaling: sum=218.93585340441453, stpmax=100.0
+getValue() (loglikelihood, optimizable by label likelihood) =-42169.90802147026
+getValue() (loglikelihood, optimizable by label likelihood) =-15871.05686056106
+getValue() (loglikelihood, optimizable by label likelihood) =-8777.637905711794
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=1 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.44017216642754664 OOV-Accuracy=NaN
+Testing accuracy=0.45852534562211983 OOV-Accuracy=0.04
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-7902.736807101514
+getValue() (loglikelihood, optimizable by label likelihood) =-4408.555271475889
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=2 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.642467718794835 OOV-Accuracy=NaN
+Testing accuracy=0.6728110599078341 OOV-Accuracy=0.2
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-4194.178316951652
+getValue() (loglikelihood, optimizable by label likelihood) =-3436.4443484233516
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=3 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.5770444763271162 OOV-Accuracy=NaN
+Testing accuracy=0.6071428571428571 OOV-Accuracy=0.04
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-3109.093413586108
+getValue() (loglikelihood, optimizable by label likelihood) =-2951.596329566821
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=4 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.739454806312769 OOV-Accuracy=NaN
+Testing accuracy=0.7534562211981567 OOV-Accuracy=0.16
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-2828.2066244227035
+getValue() (loglikelihood, optimizable by label likelihood) =-2449.078216202495
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=5 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.7845050215208035 OOV-Accuracy=NaN
+Testing accuracy=0.7903225806451613 OOV-Accuracy=0.36
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-2360.0008825353398
+getValue() (loglikelihood, optimizable by label likelihood) =-2099.002170166775
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=6 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8335724533715926 OOV-Accuracy=NaN
+Testing accuracy=0.836405529953917 OOV-Accuracy=0.32
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-2019.8115372246843
+getValue() (loglikelihood, optimizable by label likelihood) =-1884.9955640164355
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=7 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8490674318507891 OOV-Accuracy=NaN
+Testing accuracy=0.8341013824884793 OOV-Accuracy=0.36
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-1826.0831831058213
+getValue() (loglikelihood, optimizable by label likelihood) =-1620.408357188762
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=8 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8941176470588236 OOV-Accuracy=NaN
+Testing accuracy=0.881336405529954 OOV-Accuracy=0.32
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-1557.0026963292576
+getValue() (loglikelihood, optimizable by label likelihood) =-1492.2645761754459
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=9 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8903873744619799 OOV-Accuracy=NaN
+Testing accuracy=0.8744239631336406 OOV-Accuracy=0.4
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-1449.713800668444
+getValue() (loglikelihood, optimizable by label likelihood) =-1305.5462970761414
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=10 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9187948350071736 OOV-Accuracy=NaN
+Testing accuracy=0.8974654377880185 OOV-Accuracy=0.36
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-1256.398518423891
+getValue() (loglikelihood, optimizable by label likelihood) =-1215.2700225411968
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=11 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9136298421807747 OOV-Accuracy=NaN
+Testing accuracy=0.8894009216589862 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-1182.3179196154479
+getValue() (loglikelihood, optimizable by label likelihood) =-1090.8395646362044
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=12 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9368723098995696 OOV-Accuracy=NaN
+Testing accuracy=0.9101382488479263 OOV-Accuracy=0.4
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-1054.3046474714502
+getValue() (loglikelihood, optimizable by label likelihood) =-1024.3215983187067
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=13 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9385939741750359 OOV-Accuracy=NaN
+Testing accuracy=0.9124423963133641 OOV-Accuracy=0.52
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-998.1888625674576
+getValue() (loglikelihood, optimizable by label likelihood) =-944.3955990280108
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=14 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9500717360114778 OOV-Accuracy=NaN
+Testing accuracy=0.9170506912442397 OOV-Accuracy=0.4
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-917.32550179119
+getValue() (loglikelihood, optimizable by label likelihood) =-893.6250193724288
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=15 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9523672883787662 OOV-Accuracy=NaN
+Testing accuracy=0.9216589861751152 OOV-Accuracy=0.52
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-872.5733781264696
+getValue() (loglikelihood, optimizable by label likelihood) =-839.6738831103747
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=16 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9604017216642755 OOV-Accuracy=NaN
+Testing accuracy=0.9216589861751152 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-818.8726020416665
+getValue() (loglikelihood, optimizable by label likelihood) =-799.2422024525563
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=17 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9624103299856528 OOV-Accuracy=NaN
+Testing accuracy=0.9251152073732719 OOV-Accuracy=0.52
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-782.040290699131
+getValue() (loglikelihood, optimizable by label likelihood) =-760.3620625845367
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=18 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9690100430416069 OOV-Accuracy=NaN
+Testing accuracy=0.9251152073732719 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-743.9002069789731
+getValue() (loglikelihood, optimizable by label likelihood) =-727.646522180781
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=19 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9661406025824965 OOV-Accuracy=NaN
+Testing accuracy=0.9274193548387096 OOV-Accuracy=0.52
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-713.5606630100774
+getValue() (loglikelihood, optimizable by label likelihood) =-698.3204883085762
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=20 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.975609756097561 OOV-Accuracy=NaN
+Testing accuracy=0.9308755760368663 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-685.0973387018616
+getValue() (loglikelihood, optimizable by label likelihood) =-671.8600017480687
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=21 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9736011477761837 OOV-Accuracy=NaN
+Testing accuracy=0.9308755760368663 OOV-Accuracy=0.52
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-660.3968577696862
+getValue() (loglikelihood, optimizable by label likelihood) =-649.1255140728427
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=22 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9813486370157819 OOV-Accuracy=NaN
+Testing accuracy=0.9331797235023042 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-638.4833932477892
+getValue() (loglikelihood, optimizable by label likelihood) =-627.9118697646595
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=23 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9807747489239599 OOV-Accuracy=NaN
+Testing accuracy=0.9320276497695853 OOV-Accuracy=0.48
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-618.7068225794021
+getValue() (loglikelihood, optimizable by label likelihood) =-610.0369260257453
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=24 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9885222381635581 OOV-Accuracy=NaN
+Testing accuracy=0.9320276497695853 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-601.5658326976486
+getValue() (loglikelihood, optimizable by label likelihood) =-593.260985070088
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=25 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9868005738880918 OOV-Accuracy=NaN
+Testing accuracy=0.9331797235023042 OOV-Accuracy=0.48
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-586.022161237455
+getValue() (loglikelihood, optimizable by label likelihood) =-579.1447042424636
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=26 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9899569583931134 OOV-Accuracy=NaN
+Testing accuracy=0.9320276497695853 OOV-Accuracy=0.4
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-572.5701705012398
+getValue() (loglikelihood, optimizable by label likelihood) =-566.0844732611034
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=27 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9899569583931134 OOV-Accuracy=NaN
+Testing accuracy=0.934331797235023 OOV-Accuracy=0.4
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-560.5580635819733
+getValue() (loglikelihood, optimizable by label likelihood) =-554.9642797515546
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=28 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9922525107604018 OOV-Accuracy=NaN
+Testing accuracy=0.9320276497695853 OOV-Accuracy=0.4
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-550.085334572077
+getValue() (loglikelihood, optimizable by label likelihood) =-544.9599392008222
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=29 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9925394548063128 OOV-Accuracy=NaN
+Testing accuracy=0.9354838709677419 OOV-Accuracy=0.4
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-540.9214128163776
+getValue() (loglikelihood, optimizable by label likelihood) =-536.2717658054612
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=30 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.993974175035868 OOV-Accuracy=NaN
+Testing accuracy=0.9331797235023042 OOV-Accuracy=0.4
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-532.9234083292447
+getValue() (loglikelihood, optimizable by label likelihood) =-528.7264157794418
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=31 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9951219512195122 OOV-Accuracy=NaN
+Testing accuracy=0.9354838709677419 OOV-Accuracy=0.4
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-525.9683425041567
+getValue() (loglikelihood, optimizable by label likelihood) =-522.0110523548146
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=32 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9954088952654232 OOV-Accuracy=NaN
+Testing accuracy=0.9366359447004609 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-520.024368746313
+getValue() (loglikelihood, optimizable by label likelihood) =-516.3804426260214
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=33 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9956958393113343 OOV-Accuracy=NaN
+Testing accuracy=0.9366359447004609 OOV-Accuracy=0.4
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-514.7013523915025
+getValue() (loglikelihood, optimizable by label likelihood) =-511.2339454639418
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=34 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9965566714490675 OOV-Accuracy=NaN
+Testing accuracy=0.9366359447004609 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-510.4261986944409
+getValue() (loglikelihood, optimizable by label likelihood) =-507.048026640432
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=35 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9965566714490675 OOV-Accuracy=NaN
+Testing accuracy=0.9389400921658986 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-506.26737859882826
+getValue() (loglikelihood, optimizable by label likelihood) =-503.1270513636006
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=36 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9965566714490675 OOV-Accuracy=NaN
+Testing accuracy=0.9366359447004609 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-503.32009560942043
+getValue() (loglikelihood, optimizable by label likelihood) =-501.4489105465093
+getValue() (loglikelihood, optimizable by label likelihood) =-500.01137948218866
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=37 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9968436154949785 OOV-Accuracy=NaN
+Testing accuracy=0.9389400921658986 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-499.95035913290764
+getValue() (loglikelihood, optimizable by label likelihood) =-497.02140737951834
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=38 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9979913916786227 OOV-Accuracy=NaN
+Testing accuracy=0.9389400921658986 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-498.0733458193513
+getValue() (loglikelihood, optimizable by label likelihood) =-495.75627440101994
+getValue() (loglikelihood, optimizable by label likelihood) =-494.7015413465486
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=39 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9974175035868006 OOV-Accuracy=NaN
+Testing accuracy=0.9389400921658986 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-495.2081281480073
+getValue() (loglikelihood, optimizable by label likelihood) =-493.5980447710776
+getValue() (loglikelihood, optimizable by label likelihood) =-492.42335338297096
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=40 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9979913916786227 OOV-Accuracy=NaN
+Testing accuracy=0.9412442396313364 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-494.1355499445675
+getValue() (loglikelihood, optimizable by label likelihood) =-491.4738703665347
+getValue() (loglikelihood, optimizable by label likelihood) =-490.6806779054624
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=41 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9974175035868006 OOV-Accuracy=NaN
+Testing accuracy=0.9412442396313364 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-491.7435165296271
+getValue() (loglikelihood, optimizable by label likelihood) =-489.84961347792597
+getValue() (loglikelihood, optimizable by label likelihood) =-488.9648348373337
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=42 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9979913916786227 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-491.2189985073617
+getValue() (loglikelihood, optimizable by label likelihood) =-488.2477837871427
+getValue() (loglikelihood, optimizable by label likelihood) =-487.64756765636247
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=43 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9985652797704447 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-489.1687672726498
+getValue() (loglikelihood, optimizable by label likelihood) =-487.0175431979809
+getValue() (loglikelihood, optimizable by label likelihood) =-486.34638702632355
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=44 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-489.0465967619657
+getValue() (loglikelihood, optimizable by label likelihood) =-485.80074679456504
+getValue() (loglikelihood, optimizable by label likelihood) =-485.3430792733055
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=45 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9985652797704447 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-487.24285858206883
+getValue() (loglikelihood, optimizable by label likelihood) =-484.8616466967611
+getValue() (loglikelihood, optimizable by label likelihood) =-484.34828734586773
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=46 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-487.41719287154604
+getValue() (loglikelihood, optimizable by label likelihood) =-483.92948567052895
+getValue() (loglikelihood, optimizable by label likelihood) =-483.5774815480768
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=47 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-485.79134055742776
+getValue() (loglikelihood, optimizable by label likelihood) =-483.2063236415596
+getValue() (loglikelihood, optimizable by label likelihood) =-482.81007902209797
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=48 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-486.1856789548966
+getValue() (loglikelihood, optimizable by label likelihood) =-482.48565323219805
+getValue() (loglikelihood, optimizable by label likelihood) =-482.21241583538426
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=49 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-484.68850519431714
+getValue() (loglikelihood, optimizable by label likelihood) =-481.9236036511512
+getValue() (loglikelihood, optimizable by label likelihood) =-481.6148639051479
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=50 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-485.2476240241615
+getValue() (loglikelihood, optimizable by label likelihood) =-481.3611725507666
+getValue() (loglikelihood, optimizable by label likelihood) =-481.1470879179226
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=51 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-483.84384018457723
+getValue() (loglikelihood, optimizable by label likelihood) =-480.9202480250341
+getValue() (loglikelihood, optimizable by label likelihood) =-480.6774269313339
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=52 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-484.5277890387631
+getValue() (loglikelihood, optimizable by label likelihood) =-480.4772080199482
+getValue() (loglikelihood, optimizable by label likelihood) =-480.30793312960975
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=53 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-483.1920155259067
+getValue() (loglikelihood, optimizable by label likelihood) =-480.12815218979836
+getValue() (loglikelihood, optimizable by label likelihood) =-479.93544815961496
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=54 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-483.9717423535274
+getValue() (loglikelihood, optimizable by label likelihood) =-479.77603584587143
+getValue() (loglikelihood, optimizable by label likelihood) =-479.64102856451916
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=55 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9423963133640553 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-482.68562849708513
+getValue() (loglikelihood, optimizable by label likelihood) =-479.49732790674705
+getValue() (loglikelihood, optimizable by label likelihood) =-479.3431019996832
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=56 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9435483870967742 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-483.539838411616
+getValue() (loglikelihood, optimizable by label likelihood) =-479.2151391723096
+getValue() (loglikelihood, optimizable by label likelihood) =-479.10659654922057
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=57 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9435483870967742 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-482.29002029009047
+getValue() (loglikelihood, optimizable by label likelihood) =-478.99083337099944
+getValue() (loglikelihood, optimizable by label likelihood) =-478.8664448817158
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=58 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9435483870967742 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-483.2029430999776
+getValue() (loglikelihood, optimizable by label likelihood) =-478.76296072972735
+getValue() (loglikelihood, optimizable by label likelihood) =-478.67505792490033
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=59 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9435483870967742 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-481.9796079987036
+getValue() (loglikelihood, optimizable by label likelihood) =-478.5811389765913
+getValue() (loglikelihood, optimizable by label likelihood) =-478.4801140547102
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=60 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9435483870967742 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-482.9394223637626
+getValue() (loglikelihood, optimizable by label likelihood) =-478.39586599400457
+getValue() (loglikelihood, optimizable by label likelihood) =-478.3242129883032
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=61 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.945852534562212 OOV-Accuracy=0.52
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-481.73530423235775
+getValue() (loglikelihood, optimizable by label likelihood) =-478.2475337693613
+getValue() (loglikelihood, optimizable by label likelihood) =-478.16497330710854
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=62 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.9435483870967742 OOV-Accuracy=0.44
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-482.73302958527927
+getValue() (loglikelihood, optimizable by label likelihood) =-478.0959782367846
+getValue() (loglikelihood, optimizable by label likelihood) =-478.03723252840194
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=63 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.945852534562212 OOV-Accuracy=0.52
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-481.54270626867844
+getValue() (loglikelihood, optimizable by label likelihood) =-477.9742775570777
+getValue() (loglikelihood, optimizable by label likelihood) =-477.90643543039295
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=64 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.945852534562212 OOV-Accuracy=0.52
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-482.5714243366757
+getValue() (loglikelihood, optimizable by label likelihood) =-477.849629329138
+getValue() (loglikelihood, optimizable by label likelihood) =-477.80122453883894
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=65 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.945852534562212 OOV-Accuracy=0.52
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-481.3911375655131
+getValue() (loglikelihood, optimizable by label likelihood) =-477.7492827093036
+getValue() (loglikelihood, optimizable by label likelihood) =-477.69326873767886
+CRF finished one iteration of maximizer, i=0
+Evaluator iteration=66 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.945852534562212 OOV-Accuracy=0.52
+CRF about to train with 1 iterations
+getValue() (loglikelihood, optimizable by label likelihood) =-482.4448048452517
+getValue() (loglikelihood, optimizable by label likelihood) =-477.64678090128797
+getValue() (loglikelihood, optimizable by label likelihood) =-477.6062124908283
+Exiting L-BFGS on termination #1:
+value difference below tolerance (oldValue: -477.64678090128797 newValue: -477.6062124908283
+CRF finished one iteration of maximizer, i=0
+CRF training has converged, i=0
+Evaluator iteration=67 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.9988522238163559 OOV-Accuracy=NaN
+Testing accuracy=0.945852534562212 OOV-Accuracy=0.52

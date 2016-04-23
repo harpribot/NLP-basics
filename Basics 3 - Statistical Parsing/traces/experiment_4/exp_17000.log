@@ -1,0 +1,57 @@
+000 (2633.008.000) 04/03 14:51:08 Job submitted from host: <128.83.144.174:47204>
+...
+001 (2633.008.000) 04/03 14:51:52 Job executing on host: <128.83.144.55:43006>
+...
+006 (2633.008.000) 04/03 14:52:00 Image size of job updated: 37035476
+	282  -  MemoryUsage of job (MB)
+	288348  -  ResidentSetSize of job (KB)
+...
+006 (2633.008.000) 04/03 14:57:00 Image size of job updated: 37035476
+	4720  -  MemoryUsage of job (MB)
+	4832452  -  ResidentSetSize of job (KB)
+...
+010 (2633.008.000) 04/03 14:59:58 Job was suspended.
+	Number of processes actually suspended: 1
+...
+006 (2633.008.000) 04/03 14:59:58 Image size of job updated: 37035476
+	5374  -  MemoryUsage of job (MB)
+	5502264  -  ResidentSetSize of job (KB)
+...
+011 (2633.008.000) 04/03 15:01:24 Job was unsuspended.
+...
+006 (2633.008.000) 04/03 15:02:01 Image size of job updated: 37035476
+	7458  -  MemoryUsage of job (MB)
+	7636032  -  ResidentSetSize of job (KB)
+...
+006 (2633.008.000) 04/03 15:07:01 Image size of job updated: 37035476
+	7876  -  MemoryUsage of job (MB)
+	8064592  -  ResidentSetSize of job (KB)
+...
+006 (2633.008.000) 04/03 15:17:02 Image size of job updated: 37035476
+	7941  -  MemoryUsage of job (MB)
+	8131120  -  ResidentSetSize of job (KB)
+...
+006 (2633.008.000) 04/03 15:22:02 Image size of job updated: 37035476
+	8117  -  MemoryUsage of job (MB)
+	8311460  -  ResidentSetSize of job (KB)
+...
+006 (2633.008.000) 04/03 15:27:03 Image size of job updated: 37035476
+	10233  -  MemoryUsage of job (MB)
+	10478468  -  ResidentSetSize of job (KB)
+...
+005 (2633.008.000) 04/03 15:59:06 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:43:43, Sys 0 00:00:56  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:43:43, Sys 0 00:00:56  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10       10   7541872
+	   Gpus                 :                           0
+	   Memory (MB)          :    10233        1      4027
+...

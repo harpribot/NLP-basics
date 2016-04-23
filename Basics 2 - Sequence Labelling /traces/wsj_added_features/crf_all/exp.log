@@ -1,0 +1,215 @@
+000 (024.000.000) 03/04 12:55:07 Job submitted from host: <128.83.130.128:56193>
+...
+001 (024.000.000) 03/04 12:55:20 Job executing on host: <128.83.144.84:41463>
+...
+006 (024.000.000) 03/04 12:55:29 Image size of job updated: 37035476
+	333  -  MemoryUsage of job (MB)
+	340908  -  ResidentSetSize of job (KB)
+...
+006 (024.000.000) 03/04 12:58:32 Image size of job updated: 37701116
+	333  -  MemoryUsage of job (MB)
+	340908  -  ResidentSetSize of job (KB)
+...
+004 (024.000.000) 03/04 12:58:32 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:04:58, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10       10   7541874
+	   Gpus                 :                           0
+	   Memory (MB)          :      333        1      4027
+...
+009 (024.000.000) 03/04 12:58:34 Job was aborted by the user.
+	via condor_rm (by user harshal)
+...
+000 (044.000.000) 03/04 13:04:20 Job submitted from host: <128.83.130.128:56193>
+...
+001 (044.000.000) 03/04 13:04:32 Job executing on host: <128.83.144.155:50520>
+...
+006 (044.000.000) 03/04 13:04:41 Image size of job updated: 102592
+	3  -  MemoryUsage of job (MB)
+	2256  -  ResidentSetSize of job (KB)
+...
+006 (044.000.000) 03/04 13:09:42 Image size of job updated: 30202404
+	1516  -  MemoryUsage of job (MB)
+	1552180  -  ResidentSetSize of job (KB)
+...
+004 (044.000.000) 03/04 13:10:25 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:06:09, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10       10   8863364
+	   Gpus                 :                           0
+	   Memory (MB)          :     1516        1      4028
+...
+009 (044.000.000) 03/04 13:10:25 Job was aborted by the user.
+	via condor_rm (by user harshal)
+...
+000 (064.000.000) 03/04 13:12:13 Job submitted from host: <128.83.130.128:56193>
+...
+001 (064.000.000) 03/04 13:12:26 Job executing on host: <128.83.144.149:47710>
+...
+006 (064.000.000) 03/04 13:12:34 Image size of job updated: 29536764
+	342  -  MemoryUsage of job (MB)
+	349256  -  ResidentSetSize of job (KB)
+...
+006 (064.000.000) 03/04 13:17:34 Image size of job updated: 30202404
+	2563  -  MemoryUsage of job (MB)
+	2624180  -  ResidentSetSize of job (KB)
+...
+006 (064.000.000) 03/04 13:22:35 Image size of job updated: 30202404
+	2574  -  MemoryUsage of job (MB)
+	2635288  -  ResidentSetSize of job (KB)
+...
+006 (064.000.000) 03/04 13:27:36 Image size of job updated: 30202404
+	2585  -  MemoryUsage of job (MB)
+	2646496  -  ResidentSetSize of job (KB)
+...
+006 (064.000.000) 03/04 13:32:36 Image size of job updated: 30202404
+	2593  -  MemoryUsage of job (MB)
+	2654624  -  ResidentSetSize of job (KB)
+...
+006 (064.000.000) 03/04 13:37:37 Image size of job updated: 30202404
+	2601  -  MemoryUsage of job (MB)
+	2662756  -  ResidentSetSize of job (KB)
+...
+006 (064.000.000) 03/04 13:42:38 Image size of job updated: 30202404
+	2611  -  MemoryUsage of job (MB)
+	2672940  -  ResidentSetSize of job (KB)
+...
+004 (064.000.000) 03/04 13:43:28 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:58:12, Sys 0 00:00:03  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10       10   8862079
+	   Gpus                 :                           0
+	   Memory (MB)          :     2611        1      4028
+...
+009 (064.000.000) 03/04 13:43:28 Job was aborted by the user.
+	via condor_rm (by user harshal)
+...
+000 (086.000.000) 03/04 13:47:41 Job submitted from host: <128.83.130.128:56193>
+...
+001 (086.000.000) 03/04 13:47:53 Job executing on host: <128.83.144.155:50520>
+...
+006 (086.000.000) 03/04 13:48:02 Image size of job updated: 25205792
+	13  -  MemoryUsage of job (MB)
+	13192  -  ResidentSetSize of job (KB)
+...
+006 (086.000.000) 03/04 13:49:09 Image size of job updated: 30335532
+	13  -  MemoryUsage of job (MB)
+	13192  -  ResidentSetSize of job (KB)
+...
+004 (086.000.000) 03/04 13:49:09 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:01:28, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10       10   8863364
+	   Gpus                 :                           0
+	   Memory (MB)          :       13        1      4028
+...
+009 (086.000.000) 03/04 13:49:09 Job was aborted by the user.
+	via condor_rm (by user harshal)
+...
+000 (109.000.000) 03/04 13:50:13 Job submitted from host: <128.83.130.128:56193>
+...
+001 (109.000.000) 03/04 13:50:27 Job executing on host: <128.83.144.148:58982>
+...
+006 (109.000.000) 03/04 13:50:36 Image size of job updated: 102584
+	3  -  MemoryUsage of job (MB)
+	2256  -  ResidentSetSize of job (KB)
+...
+006 (109.000.000) 03/04 13:55:37 Image size of job updated: 30202404
+	3119  -  MemoryUsage of job (MB)
+	3193392  -  ResidentSetSize of job (KB)
+...
+000 (133.000.000) 03/04 14:25:15 Job submitted from host: <128.83.130.128:56193>
+...
+001 (133.000.000) 03/04 14:25:31 Job executing on host: <128.83.144.168:32955>
+...
+006 (133.000.000) 03/04 14:25:40 Image size of job updated: 37035476
+	293  -  MemoryUsage of job (MB)
+	299328  -  ResidentSetSize of job (KB)
+...
+006 (133.000.000) 03/04 14:30:41 Image size of job updated: 37701116
+	2185  -  MemoryUsage of job (MB)
+	2237324  -  ResidentSetSize of job (KB)
+...
+006 (133.000.000) 03/04 14:35:42 Image size of job updated: 37701116
+	3460  -  MemoryUsage of job (MB)
+	3542600  -  ResidentSetSize of job (KB)
+...
+006 (133.000.000) 03/04 14:40:42 Image size of job updated: 37701116
+	3468  -  MemoryUsage of job (MB)
+	3550752  -  ResidentSetSize of job (KB)
+...
+010 (133.000.000) 03/04 14:49:23 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (133.000.000) 03/04 14:49:34 Job was unsuspended.
+...
+006 (133.000.000) 03/04 16:00:51 Image size of job updated: 37701116
+	3969  -  MemoryUsage of job (MB)
+	4063580  -  ResidentSetSize of job (KB)
+...
+006 (133.000.000) 03/04 16:05:52 Image size of job updated: 37701116
+	6447  -  MemoryUsage of job (MB)
+	6600732  -  ResidentSetSize of job (KB)
+...
+005 (133.000.000) 03/04 17:25:51 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 07:11:24, Sys 0 00:01:35  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 07:11:24, Sys 0 00:01:35  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10       10   7541874
+	   Gpus                 :                           0
+	   Memory (MB)          :     6447        1      4027
+...
+010 (109.000.000) 03/04 18:11:49 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (109.000.000) 03/04 18:12:20 Job was unsuspended.
+...
+010 (109.000.000) 03/04 18:27:48 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (109.000.000) 03/04 18:28:23 Job was unsuspended.
+...
+005 (109.000.000) 03/04 20:37:14 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 07:31:31, Sys 0 00:00:13  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 07:31:31, Sys 0 00:00:13  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10       10   8863313
+	   Gpus                 :                           0
+	   Memory (MB)          :     3119        1      4028
+...

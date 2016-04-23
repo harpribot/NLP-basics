@@ -1,0 +1,451 @@
+This file contains a general description of changes to Brown corpus
+POS-tagged files after version 0.5 - i.e., changes after the publication of
+the 12/92 cdrom, mostly correcting inconsistencies between the tagged and
+parsed versions that caused errors in merging.
+
+Most changes are corrections in tokenization, reflecting similar changes in
+the corresponding skeletal-parse version of the file (c???.par).  A few
+extraneous words are also eliminated, lost words restored, and so forth.
+
+A few changes are also POS tag corrections, from when somebody happened to
+notice an error in the POS tagging while doing something else.  However,
+there has been no thorough revision of the POS tag information found here
+since early 1990, when the files were originally tagged.
+
+Most changes are recorded here, but a few may not be.
+
+------------------------------ca--------------------------------
+
+01 - corrected tags: B./. => B./NNP
+	J.M./. => J.M./NNP
+
+10 - split: 6-12/CD => 6/CD -/: 12/CD
+     ("-" pronounced "to", consider /TO tag???)
+
+11 - fixed initials: J/NNP.A.W./NNP => J./NNP A./NNP W./NNP
+
+13 - removed tag on []: ]*/VBP => ]
+
+15 - removed extras:
+	'49/CD '49/CD => '49/CD
+	'52/CD '52/CD => '52/CD
+	'55/CD '55/CD => '55/CD
+	'51/CD '51/CD => '51/CD
+	'em/JJ 'em/NN => 'em/PRP
+	'55/CD '55/CD => '55/CD
+
+16 - joined: bulletin/VB 'd/MD => bulletin'd/VBD
+     fixed initials: N/NNP.Y.C./NNP => N.Y.C./NNP
+     fixed initials: A.L/NNP.S/NNP.A.C./NNP => A.L.S.A.C./NNP
+
+17 - split period, fixed initials:
+	[ Aj./NNP Dr./NNP W/NNP.B/NNP.I./NN Martin/NNP ]
+	=>
+	[ Aj/NNP ]
+	./.
+
+	[ Dr./NNP W./NNP B./NNP I./NNP Martin/NNP ]
+	("Aj" here is really SMU; hope I can fix that part later...)
+
+27 - split: Its/PRP$ => It/PRP s/VBZ
+
+29 - fixed initials: J/NNP.I./JJ => J./NNP I./NNP
+
+30 - fixed initials: W/NNP.A./NN => W./NNP A./NNP
+
+42 - split: [ a/DT ''./SYM Salvador/NNP ]
+	=>
+	a/DT ''/'' ./.
+
+	Salvador/NNP
+
+------------------------------cb--------------------------------
+
+01 - retagged: American/NNP => American/JJ (twice)
+     fixed garbage (unknown origin): */: => ]
+     retagged: was/: => was/VBD
+     retagged: much/DT => much/RB
+     split: cannot/MD => can/MD not/RB
+     (This file, like many 01 & 02 files, is in not-great shape.  Should be
+	retagged if there is time.)
+
+03 - split: [ a/DT good/JJ man./NN un/NN ]
+	=>
+	[ a/DT good/JJ man/NN ]
+	./.
+	==================================
+
+	[ un/NNP ]                           (as in United Nations)
+
+07 - fixed initials: I.A.P/NNP.A./NN => I.A.P.A./NNP (twice)
+
+09 - removed extra: [ 'em/PRP 'em/PRP  ] => [ 'em/PRP ]
+
+11 - retokenized:
+	[ N.Y/NNP ]
+	../. But/CC watching/VBG
+	=>
+	[ N.Y./NNP ]
+	./.
+
+	But/CC watching/VBG
+
+14 - removed extra: '60/CD '60/CD => '60/CD
+
+18 - retokenized:
+	[ the/DT U.N/NNP ]
+	../. If/IN
+	=>
+	[ the/DT U.N./NNP ]
+	./.
+
+	If/IN
+
+20 - fixed initials: R/NNP.H.S./NNP => R./NNP H./NNP S./NNP
+
+24 - removed tag on []: ]*/NNP => ]
+
+------------------------------cc--------------------------------
+
+01 - moved dot:
+	[ 828/CD Davis/NNP St/NNP ]
+	../.
+	=>
+	[ 828/CD Davis/NNP St./NNP ]
+	./.
+
+09 - fixed initials: R/NNP.C/NNP.A./NN => R.C.A./NNP (twice)
+
+10 - removed extra POS tag: n't/RB/NNP => n't/NNP
+	(dunno about tag, but consistent w/ surrounding file, anyway)
+
+12 - moved dot:
+	[ etc/NN ]
+	../.
+	=>
+	[ etc./NN ]
+	./.
+
+13 - fixed initials: R/NNP.A./NN => R./NNP A./NNP
+
+14 - corrected tag: had/VBD => had/VBN
+
+------------------------------cd--------------------------------
+
+01 - split: cannot/MD => can/MD not/RB
+
+08 - removed extra: Ch'in/NNP Ch'in/NNP => Ch'in/NNP (twice)
+
+14 - corrected tag: had/VBD => had/VBN
+
+15 - removed extra: Ch'an/NNP Ch'an/NNP => Ch'an/NNP (twice)
+
+
+------------------------------ce--------------------------------
+
+01 - split (twice): cannot/MD => can/MD not/RB
+
+02 - corrected tag: had/VBD => had/VBN
+
+03 - moved dot: [ etc/FW ] ../. => [ etc./FW ] ./.
+     added newlines
+
+05 - removed junk from bracket:  ]*/JJ => ]
+
+07 - moved dot: [ sq/JJ ] ../. => [ sq./JJ ] ./.
+     added newline
+
+08 - removed junk from bracket:  ]*/NN => ]
+
+11 - inserted near "Pierpont": ./.
+     (missing in our raw, but present in ICAME)
+
+13 - removed junk from bracket: ]*/VBG => ]
+
+14 - removed extra tag (9 times): n't/RB/NNP => n't/RB
+
+18 - corrected tag: had/VBD => had/VBN
+
+26 - fixed initials: J/NNP.G.L./NNP => J./NNP G./NNP L./NNP
+
+32 - fixed initials: W/NNP.R.G./NNP => W./NNP R./NNP G./NNP
+
+------------------------------cf--------------------------------
+
+06 - removed extra: n'th/JJ n'th/JJ => n'th/JJ
+
+16 - untagged bracket: ]*/RB => ]
+
+18 - removed extra: o'er/IN ] o'er/IN => ] o'er/IN
+
+24 - fixed initials: J/NNP.J/NNP.A./NN => J./NNP J./NNP A./NNP
+
+35 - removed 21 extra words, e.g.:
+	[ 'em/PRP 'em/PRP ] => [ 'em/PRP ]
+	[ 'im/PRP 'im/PRP ] => [ 'im/PRP ]
+      (by using query-replace-regexp in emacs)
+     merged 90 single-quote "ing" abbreviation markers, e.g.:
+	[ locatin/NN ] '/'' => [ locatin'/NN ]
+	[ Followin/VBG ] '/'' => [ Followin'/VBG ]
+      (by usin' query-replace-regexp in emacs)
+     corrected a couple tags:
+	out/IN => out/RB
+	in/IN => in/RP
+
+36 - removed extra: [ 'em/PRP 'em/PRP ] => [ 'em/PRP ]
+
+37 - removed extra: [ ma'am/NN ma'am/NN ] => [ ma'am/NN ]
+
+39 - corrected tag: had/VBD => had/VBN
+
+
+------------------------------cg--------------------------------
+
+11 - split: [ each/DT other./NN 3/CD ]
+	=>
+	[ each/DT other/NN ]
+	./.
+
+	[ 3/CD ]
+
+12 - moved junk tag to where it was supposed to be:
+	[ I/PRP ]*/VBP have/VB => [ I/PRP ] have/VBP
+
+36 - joined, retagged:
+	[ two/CD U.N/NNP ]
+	./.
+	==================================
+	Under/IN
+	=>
+	[ two/CD U.N./NNP ]
+	Under/NN
+     fixed initials: J/NNP.A.C./NNP => J.A.C./NNP
+
+40 - corrected tag: had/VBD => had/VBN
+
+49 - split: [ an/DT evident/JJ break./NN 3/CD ]
+	=>
+	[ an/DT evident/JJ break/NN ]
+	./.
+
+	[ 3/CD ]
+
+52 - corrected tag: gained/VBD => gained/VBN
+     split: [ him./NN 2/CD ]
+	=>
+	[ him/PRP ]
+	./.
+
+	[ 2/CD ]
+
+54 - corrected tag: had/VBD => had/VBN
+
+64 - joined: Ryc/NNP ] '/'' => Ryc'/NNP ]
+     corrected tag: Quyney/NN => Quyney/NNP
+     corrected tag: ther/RB => ther/EX
+     corr. tag/split: ther/JJR hosts/NNS => ther/PRP$ host/NN s/POS
+     removed junk from bracket: ]*/NN|POS => ]
+
+66 - corrected tag (twice): had/VBD => had/VBN
+
+
+71 - corrected tags: human/JJ flash/NN => human/NN flash/VBP
+     split: [ a/DT Caravaggio./NNP 2/CD ]
+	=>
+	[ a/DT Caravaggio/NNP ]
+	./.
+
+	[ 2/CD ]
+
+------------------------------ch--------------------------------
+
+06 - fixed initials: R/NNP.I./NN => R.I./NNP (three times)
+
+08 - restored final word: Governor/NNP
+
+09 - fixed initials: U/NNP.S.C./NNP => U.S.C./NNP
+
+11 - fixed initials: W/NNP.A./NN => W./NNP A./NNP
+
+13 - fixed capitalization & tokenization:
+	[ U.s/NNP ]
+	./.
+	==================================
+
+	[ News/NNP ]
+	=>
+	[ U.S./NNP News/NNP ]
+
+
+------------------------------cj--------------------------------
+
+01 - split: cannot/MD => can/MD not/RB
+
+04 - fixed initials: H/NNP.A./NN => H.A./NNP
+     split: [ Af./NNP A[fj]/SYM bond/NN ]
+	=>
+	[ Af/NN ]
+	./.
+
+	[ A[fj]/SYM bond/NN ]
+     corrected tag: Theoretical/NNP => Theoretical/JJ
+
+09 - fixed initials: D/NNP.A./NN => D.A./NNP
+     corrected tag (3 times): Fig./NNP => Fig./NN
+
+18 - joined: [ etc/NN ] ./. => [ etc./NN ]
+
+21 - split: [ L./NNP Clearly/RB ] ,/,
+	=>
+	[ L/NNP ]
+	./.
+
+	Clearly/RB ,/,
+
+31 - corrected tag: that/WDT => that/DT
+
+37 - split: [ the/DT U.N.F.P./NNP./JJ Voting/NN preparations/NNS ]
+	=>
+	[ the/DT U.N.F.P./NNP ]
+	./.
+
+	[ Voting/NN preparations/NNS ]
+
+41 - split: [ explicit./JJ 1/CD ]
+	=>
+	explicit/JJ ./.
+
+	[ 1/CD ]
+     split: [ based./VBN 2/CD ]
+	=>
+	based/VBN ./.
+
+	[ 2/CD ]
+
+44 - split: [ a/DT )./NN ]
+	=>
+	[ a/NN ]
+	)/) ./. 
+
+45 - split: [ C/NN )./SYM D/NN ]
+	=>
+	[ C/NN ]
+	)/) ./.
+
+	[ D/NN ]
+
+72 - fixed initials:
+	J/NNP.A./NN => J.A./NNP
+	C/NNP.A.J./NNP => C.A.J./NNP
+	C/NNP.A.J./NNP => C.A.J./NNP
+	C/NNP.A.J./NNP => C.A.J./NNP
+     (tokenization not entirely consistent with other such corrections, but
+      there are too many.  Probably ought to change other ones to this way.)
+
+77 - backslashed star to conform with standard: */SYM => \*/SYM
+
+------------------------------ck--------------------------------
+
+02 - changed placement of quote to conform with sense, as opposed to the
+	raw text:
+		came/VBD up/RP ``/`` ./. Take/VB
+		=>
+		came/VBD up/RP ./. ``/`` Take/VB
+
+03 - removed junk from bracket: ]*/NNP => ]
+
+05 - split/retagged: [ not./NN 7/CD ]
+	=>
+	[ not/RB ]
+	./.
+
+	[ 7/CD ]
+
+07 - split: hafta/VB => haf/VB ta/TO
+     split: hafta/VBP => haf/VBP ta/TO
+
+12 - removed extraneous: ./.
+     corrected tag: Emerson/NN => Emerson/NNP
+
+15 - corrected tag: yes/RB => yes/UH
+
+26 - corrected tag: had/VBD => had/VBN
+
+------------------------------cl--------------------------------
+
+01 - restored original form: will/MD n't/RB => wo/MD n't/RB
+
+03 - split: hafta/VB => haf/VB ta/TO
+     split: Why'n/WRB => Why/WRB 'n/IN
+
+------------------------------cm--------------------------------
+
+01 - moved junk tag to where it was supposed to be:
+	[ my/PRP$ ]*/UH => [ my/UH ]
+
+03 - corrected tag: had/VBD => had/VBN
+
+05 - corrected tag: had/VBD => had/VBN
+
+06 - corrected tag: had/VBD => had/VBN
+     split: [ none/NN the/DT less./NN 4/CD ]
+	=>
+	[ none/NN the/DT less/NN ]
+	./.
+
+	[ 4/CD ]
+
+------------------------------cn--------------------------------
+
+11 - corrected tag: shrink/NN => shrink/VB
+     removed extra: 'em/VB
+
+13 - split: ,'cept/IN => ,/, 'cept/IN
+     split: ,'t-/PRP => ,/, 't-/PRP
+
+16 - fixed initials: J/NNP.A./VB => J./NNP A./NNP
+     split: Ahm/PRP => Ah-/PRP m/VBP
+     split: t'jawn/VB/VBP => t'-/TO jawn/VB
+     split: didn/VBD => did-/VBD n/RB
+     split: t'hi-im/PRP => t'-/TO hi-im/PRP
+     split: t'lah/VB => t'-/TO lah/VB
+     fixed quote (twice): '/POS => `/``
+     split: coudn/MD => coud-/MD n/RB
+     split: didn/VBD => did-/VBD n/RB
+     split: f'ovuh/VB => f'-/IN ovuh/IN
+     split: doan/VBP => doa-/VBP n/RB
+     split: d'you/VBP => d'-/VBP you/PRP
+     split: Wanna/VBP => Wann-/VB a/DT
+
+24 - split (twice): gotta/VBP => got/VBP ta/TO
+
+29 - split: wanna/VBP => wan-/VBP na/TO
+     split: wanna/VB => wan-/VB na/TO
+     split: Wanna/VB => Wann-/VB a/DT
+     corrected tag (twice): 's/POS => 's/VBZ
+     split: y'know/VB => y'/PRP know/VB
+
+------------------------------cp--------------------------------
+
+11 - corrected tag: had/VBD => had/VBN
+
+------------------------------cr--------------------------------
+
+07 - corrected tag: had/VBD => had/VBN
+
+------------------------------GENERAL--------------------------------
+
+
+SPLIT: ''./XX => ''/'' ./.
+in:
+   ce/ce07.pos cf/cf18.pos cg/cg38.pos cg/cg71.pos cg/cg72.pos ch/ch13.pos
+   cj/cj58.pos ck/ck24.pos cl/cl16.pos cn/cn01.pos cn/cn17.pos cn/cn27.pos
+   cp/cp23.pos
+
+REMOVED doubled words (esp. 'em/PRP 'em/PRP => 'em/PRP)
+in:
+   cc/cc14.pos ce/ce05.pos ce/ce10.pos cg/cg31.pos cg/cg40.pos cj/cj01.pos
+   cj/cj12.pos cj/cj60.pos ck/ck26.pos cl/cl04.pos cl/cl24.pos cm/cm03.pos
+   cn/cn03.pos cn/cn04.pos cn/cn09.pos cn/cn15.pos cn/cn16.pos cn/cn17.pos
+   cn/cn22.pos cn/cn26.pos cn/cn27.pos cp/cp03.pos cp/cp04.pos cp/cp20.pos
+   cp/cp29.pos cr/cr01.pos cr/cr04.pos cr/cr07.pos

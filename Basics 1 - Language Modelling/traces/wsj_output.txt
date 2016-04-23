@@ -1,0 +1,34 @@
+#################################
+Using BigramModel on wsj data
+
+# Train Sentences = 43820 (# words = 995626) 
+# Test Sentences = 4869 (# words = 111718)
+Training...
+Perplexity = 74.26799183241482
+Word Perplexity = 88.89008380713945
+Testing...
+Perplexity = 219.71517777445175
+Word Perplexity = 275.1178149885602
+#################################
+Using BackwardBigramModel on wsj data
+
+# Train Sentences = 43820 (# words = 995626) 
+# Test Sentences = 4869 (# words = 111718)
+Training...
+Perplexity = 74.26778753071389
+Word Perplexity = 86.6602647021424
+Testing...
+Perplexity = 219.51980597986474
+Word Perplexity = 266.3515745993808
+#################################
+Using BidirectionalBigramModel on wsj data
+
+# Train Sentences = 43820 (# words = 995626) 
+# Test Sentences = 4869 (# words = 111718)
+Training...
+Word Perplexity = 46.514445090631405
+Testing...
+Word Perplexity = 126.1131573880389
+
+ 
+

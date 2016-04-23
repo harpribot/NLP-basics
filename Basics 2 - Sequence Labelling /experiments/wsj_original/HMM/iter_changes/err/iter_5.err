@@ -1,0 +1,72 @@
+Number of features in training data: 6792
+Number of predicates: 10392
+Labels: O NNP , CD NNS JJ MD VB DT NN IN . VBZ VBG CC VBD VBN RB TO PRP RBR WDT VBP PRP$ JJS POS `` EX '' WP : JJR WRB RP $ NNPS WP$ ( ) PDT RBS FW UH SYM LS # VBG|NN
+Preparing O
+Preparing NNP
+Preparing ,
+Preparing CD
+Preparing NNS
+Preparing JJ
+Preparing MD
+Preparing VB
+Preparing DT
+Preparing NN
+Preparing IN
+Preparing .
+Preparing VBZ
+Preparing VBG
+Preparing CC
+Preparing VBD
+Preparing VBN
+Preparing RB
+Preparing TO
+Preparing PRP
+Preparing RBR
+Preparing WDT
+Preparing VBP
+Preparing PRP$
+Preparing JJS
+Preparing POS
+Preparing ``
+Preparing EX
+Preparing ''
+Preparing WP
+Preparing :
+Preparing JJR
+Preparing WRB
+Preparing RP
+Preparing $
+Preparing NNPS
+Preparing WP$
+Preparing (
+Preparing )
+Preparing PDT
+Preparing RBS
+Preparing FW
+Preparing UH
+Preparing SYM
+Preparing LS
+Preparing #
+Preparing VBG|NN
+Training on 1571 instances
+Testing on 1631 instances
+getValue() (observed log-likelihood) = -473002.69306977856
+getValue() (log-likelihood) = -473002.69306977856
+HMM finished one iteration of maximizer, i=0
+getValue() (observed log-likelihood) = -290100.0448151981
+getValue() (log-likelihood) = -290100.0448151981
+HMM finished one iteration of maximizer, i=1
+getValue() (observed log-likelihood) = -290104.7838951479
+getValue() (log-likelihood) = -290104.7838951479
+HMM finished one iteration of maximizer, i=2
+getValue() (observed log-likelihood) = -290107.83816382283
+getValue() (log-likelihood) = -290107.83816382283
+HMM finished one iteration of maximizer, i=3
+getValue() (observed log-likelihood) = -290109.8895920149
+getValue() (log-likelihood) = -290109.8895920149
+HMM finished one iteration of maximizer, i=4
+Evaluator iteration=5 cost=NA (not Optimizable.ByValue)
+Training accuracy=0.8619772916089726 OOV-Accuracy=NaN
+Testing accuracy=0.7851060990257573 OOV-Accuracy=0.3796344647519582
+Trainer by likelihood done
+

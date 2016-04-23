@@ -1,0 +1,34 @@
+#################################
+Using BigramModel on atis data
+
+# Train Sentences = 519 (# words = 3922) 
+# Test Sentences = 58 (# words = 431)
+Training...
+Perplexity = 9.043192013019798
+Word Perplexity = 10.5919539986291
+Testing...
+Perplexity = 19.341388622483773
+Word Perplexity = 24.053999598153656
+#################################
+Using BackwardBigramModel on atis data
+
+# Train Sentences = 519 (# words = 3922) 
+# Test Sentences = 58 (# words = 431)
+Training...
+Perplexity = 9.0129362437796
+Word Perplexity = 11.636203016013203
+Testing...
+Perplexity = 19.364374738655066
+Word Perplexity = 27.16138806179997
+#################################
+Using BidirectionalBigramModel on atis data
+
+# Train Sentences = 519 (# words = 3922) 
+# Test Sentences = 58 (# words = 431)
+Training...
+Word Perplexity = 7.235173934082009
+Testing...
+Word Perplexity = 12.700210156018738
+
+ 
+

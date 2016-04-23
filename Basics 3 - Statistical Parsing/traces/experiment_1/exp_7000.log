@@ -1,0 +1,52 @@
+000 (2630.005.000) 04/03 14:51:07 Job submitted from host: <128.83.144.174:47204>
+...
+001 (2630.005.000) 04/03 14:51:49 Job executing on host: <128.83.139.148:59882>
+...
+006 (2630.005.000) 04/03 14:51:57 Image size of job updated: 102612
+	3  -  MemoryUsage of job (MB)
+	2240  -  ResidentSetSize of job (KB)
+...
+006 (2630.005.000) 04/03 14:56:57 Image size of job updated: 37035476
+	10131  -  MemoryUsage of job (MB)
+	10373212  -  ResidentSetSize of job (KB)
+...
+010 (2630.005.000) 04/03 15:05:53 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (2630.005.000) 04/03 15:06:29 Job was unsuspended.
+...
+010 (2630.005.000) 04/03 15:10:17 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (2630.005.000) 04/03 15:20:21 Job was unsuspended.
+...
+004 (2630.005.000) 04/03 15:20:21 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:18:19, Sys 0 00:00:07  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10       10   7541872
+	   Gpus                 :                           0
+	   Memory (MB)          :    10131        1      4027
+...
+001 (2630.005.000) 04/03 15:24:26 Job executing on host: <128.83.139.6:35999>
+...
+005 (2630.005.000) 04/03 16:23:12 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 01:02:02, Sys 0 00:00:46  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:02:02, Sys 0 00:00:46  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :       10       10   1702932
+	   Gpus                 :                           0
+	   Memory (MB)          :    12208    12208     12899
+...

@@ -1,0 +1,34 @@
+#################################
+Using BigramModel on brown data
+
+# Train Sentences = 47207 (# words = 1079440) 
+# Test Sentences = 5245 (# words = 93530)
+Training...
+Perplexity = 93.51927720192262
+Word Perplexity = 113.35954408376686
+Testing...
+Perplexity = 231.30243689356243
+Word Perplexity = 310.66735613437913
+#################################
+Using BackwardBigramModel on brown data
+
+# Train Sentences = 47207 (# words = 1079440) 
+# Test Sentences = 5245 (# words = 93530)
+Training...
+Perplexity = 93.50913083897301
+Word Perplexity = 110.78289581654053
+Testing...
+Perplexity = 231.20551767464033
+Word Perplexity = 299.68570342320015
+#################################
+Using BidirectionalBigramModel on brown data
+
+# Train Sentences = 47207 (# words = 1079440) 
+# Test Sentences = 5245 (# words = 93530)
+Training...
+Word Perplexity = 61.46886647115352
+Testing...
+Word Perplexity = 167.48711091425574
+
+ 
+
