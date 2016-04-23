@@ -32,14 +32,14 @@ experiment_8  --> Seed:Brown, Test:WSJ,  Self-Training - True (Out-of-domain), V
 
 
 # Optional Commands Information to the UnsupervisedDomainAdapter code (see usage in condor scripts)
--labelled_corpus   <-- location of the seed corpus
--unlabelled_corpus <-- location of the test corpus
--seed_sentences    <-- Number of seed sentences
--self_training_sentence <-- Number of self training sentences
--seed_fraction  <-- When Brown is Seed it tells that what fraction of Brown is seed
--self_training_fraction  <-- When Brown is Self Training it tells that what fraction of Brown is self training
--test_fraction <-- When Brown is Test Data it tells that what fraction is test
--seed_range <-- When WSJ is Seed, then it tells that which docs are part of seed
--self_training_range <-- When WSJ is Self Training, then it tells what docs are in self training
--test_range <-- When WSJ is test, it tells what docs are in test
--self_train <-- True if we want to self train, else False
+1. labelled_corpus   <-- location of the seed corpus
+2. unlabelled_corpus <-- location of the test corpus
+3. seed_sentences    <-- Number of seed sentences
+4. self_training_sentence <-- Number of self training sentences
+5. seed_fraction  <-- When Brown is Seed it tells that what fraction of Brown is seed
+6. self_training_fraction  <-- When Brown is Self Training it tells that what fraction of Brown is self training
+7. test_fraction <-- When Brown is Test Data it tells that what fraction is test
+8. seed_range <-- When WSJ is Seed, then it tells that which docs are part of seed
+9. self_training_range <-- When WSJ is Self Training, then it tells what docs are in self training
+10. test_range <-- When WSJ is test, it tells what docs are in test
+11. self_train <-- True if we want to self train, else False
